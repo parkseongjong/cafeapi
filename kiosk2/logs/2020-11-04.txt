@@ -1,0 +1,40 @@
+[2020-11-04 10:05:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-04 10:05:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+

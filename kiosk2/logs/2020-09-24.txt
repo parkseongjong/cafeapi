@@ -1,0 +1,40 @@
+[2020-09-24 09:53:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-24 09:53:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+

@@ -1,0 +1,2208 @@
+[2021-07-06 10:56:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2021-07-06 10:56:35
+
+========================================
+
+[2021-07-06 10:56:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2021-07-06 10:56:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment_unit2
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [view_name] => E-TP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3_2.png
+            [activation] => Y
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [view_name] => E-MC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc_2.png
+            [activation] => Y
+        )
+
+    [2] => Array
+        (
+            [unit] => ECTC
+            [view_name] => E-CTC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_ectc.png
+            [activation] => N
+        )
+
+    [3] => Array
+        (
+            [unit] => EETH
+            [view_name] => E-ETH
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_eeth.png
+            [activation] => N
+        )
+
+    [4] => Array
+        (
+            [unit] => EBTC
+            [view_name] => E-BTC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_ebtc.png
+            [activation] => N
+        )
+
+    [5] => Array
+        (
+            [unit] => EUSDT
+            [view_name] => E-USDT
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_eusdt.png
+            [activation] => N
+        )
+
+    [6] => Array
+        (
+            [unit] => ELA
+            [view_name] => E-LA
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_ela.png
+            [activation] => N
+        )
+
+    [7] => Array
+        (
+            [unit] => EBNB
+            [view_name] => E-BNB
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_ebnb.png
+            [activation] => N
+        )
+
+    [8] => Array
+        (
+            [unit] => EXRP
+            [view_name] => E-XRP
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_exrp.png
+            [activation] => N
+        )
+
+    [9] => Array
+        (
+            [unit] => ELTC
+            [view_name] => E-LTC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_eltc.png
+            [activation] => N
+        )
+
+)
+
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3500
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=420
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=420
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10500
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=332
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=332
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=118
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=384
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=384
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=137
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9600
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=436
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=436
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=155
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10900
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=488
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=488
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=174
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12200
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=540
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=540
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=192
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=592
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=592
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=211
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=540
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=540
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=192
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:06:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13500
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=592
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=592
+    unit=ETP3
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=211
+    unit=EMC
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ECTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EETH
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EBTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EUSDT
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ELA
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EBNB
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=EXRP
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:07:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14800
+    target_unit=ELTC
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2021-07-06 13:08:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D592%7Cetp3
+
+========================================
+
+[2021-07-06 13:08:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -25
+
+========================================
+
+[2021-07-06 13:08:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -22
+
+========================================
+
+[2021-07-06 13:08:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -19
+
+========================================
+
+[2021-07-06 13:08:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -15
+
+========================================
+
+[2021-07-06 13:08:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -12
+
+========================================
+
+[2021-07-06 13:08:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -9
+
+========================================
+
+[2021-07-06 13:08:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -6
+
+========================================
+
+[2021-07-06 13:08:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. -2
+
+========================================
+
+[2021-07-06 13:08:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 1
+
+========================================
+
+[2021-07-06 13:08:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 4
+
+========================================
+
+[2021-07-06 13:08:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 7
+
+========================================
+
+[2021-07-06 13:08:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 11
+
+========================================
+
+[2021-07-06 13:08:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 14
+
+========================================
+
+[2021-07-06 13:08:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 17
+
+========================================
+
+[2021-07-06 13:09:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 21
+
+========================================
+
+[2021-07-06 13:09:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2021-07-06 13:09:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2021-07-06 13:09:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 30
+
+========================================
+
+[2021-07-06 13:09:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2021-07-06 13:09:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2021-07-06 13:09:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2021-07-06 13:09:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2021-07-06 13:09:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2021-07-06 13:09:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2021-07-06 13:09:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 53
+
+========================================
+
+[2021-07-06 13:09:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2021-07-06 13:09:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 60
+
+========================================
+
+[2021-07-06 13:09:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2021-07-06 13:09:20
+    price=592
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1625544583_299
+    id=1591
+
+========================================
+
+[2021-07-06 13:09:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1625544583_299
+    total_price=592
+    from_id=1591
+    ok_date=2021-07-06 13:09:20
+    detail=[
+  {
+    "code": "C11-03",
+    "name": "페리에 탄산수 (레몬)",
+    "count": 2,
+    "price": 7000,
+    "option": ""
+  },
+  {
+    "code": "C02-01",
+    "name": "아메리카노 ICE",
+    "count": 5,
+    "price": 6500,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 1300,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

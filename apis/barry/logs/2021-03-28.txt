@@ -1,0 +1,910 @@
+[2021-03-28 00:00:01] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 01:39:53] : 223.38.21.133
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:48:12] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:48:34] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:49:20] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:56:42] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:57:20] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:58:38] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 07:59:02] : 115.139.32.107
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 09:16:25] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=finish
+    seller_user_id=11037
+    buyer_user_id=3707
+    payment_no=87012
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 10:42:41] : 210.103.97.34
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 10:43:37] : 210.103.97.34
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 11:04:18] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=22.44
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 12:50:37] : 118.235.32.89
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=23
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 13:32:52] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=finish
+    seller_user_id=2163
+    buyer_user_id=3285
+    payment_no=87042
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 14:20:15] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 14:41:20] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 14:43:41] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1431
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 14:43:41] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1431
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 14:43:42] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=1947
+    seller_address=0x01c9b6e64bE0644bb33a214C29b34Bb229f528DD
+    buyer_user_id=1431
+    amount=238888
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    payment_no=87072
+
+========================================
+
+[2021-03-28 14:53:18] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 14:58:13] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1431
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 14:58:14] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1431
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 14:58:14] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=1564
+    seller_address=0x0735d1aA8688b89B2B6667E73F4d7398731CFB1b
+    buyer_user_id=1431
+    amount=44444
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    payment_no=87076
+
+========================================
+
+[2021-03-28 15:00:07] : 220.94.213.229
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:05:37] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:13:48] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:19:09] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:22:02] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:24:35] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:29:36] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 15:34:02] : 106.101.192.242
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 16:24:17] : 106.101.192.242
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 16:48:16] : 106.101.192.242
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 16:49:23] : 106.102.128.130
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 16:49:41] : 106.101.192.242
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 16:53:10] : 106.102.128.130
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 16:55:25] : 106.102.128.130
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:21:24] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=finish
+    seller_user_id=15440
+    buyer_user_id=3587
+    payment_no=86212
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 17:24:00] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:24:16] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:25:11] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:25:43] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:27:40] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:28:54] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:29:45] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:30:28] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 17:31:43] : 112.187.136.27
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 18:00:01] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.82
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 20:56:57] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=finish
+    seller_user_id=15440
+    buyer_user_id=3085
+    payment_no=86344
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 21:15:44] : 211.36.148.1
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.8
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 21:54:09] : 121.191.9.10
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 21:56:20] : 121.191.9.10
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 21:56:29] : 121.191.9.10
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 21:57:09] : 121.191.9.10
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 22:11:16] : 124.52.155.138
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.76
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 22:41:44] : 106.101.66.52
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.76
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 23:22:32] : 220.88.208.79
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 23:27:46] : 112.147.208.34
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 23:29:06] : 112.147.208.34
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 23:33:02] : 112.147.208.34
+[REQ] ---------------
+    ckey=
+    kind=getprice2
+    coin_type=e-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    ex_rate=25.84
+    epay_per_coin=1
+    unit=E-TP3
+
+========================================
+
+[2021-03-28 23:54:30] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=10848
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 23:54:31] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=10848
+    user_pw=
+[RET] ---------------
+    code=77
+    msg=잘못된 사용자입니다.
+
+========================================
+
+[2021-03-28 23:55:39] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=10848
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 23:55:40] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=10848
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2021-03-28 23:55:40] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=3160
+    seller_address=0x44b49E750fdbB4B9ab21F32E2a6aEF335E32E7ef
+    buyer_user_id=10848
+    amount=6315
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    payment_no=87122
+
+========================================
+

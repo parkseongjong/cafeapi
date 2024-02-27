@@ -1,0 +1,127 @@
+[2021-07-27 19:44:10] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=99
+    msg=DB Connection error.
+
+========================================
+
+[2021-07-27 19:46:01] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=15
+    unit=ETP3
+
+========================================
+
+[2021-07-27 19:59:09] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=exchange
+    price=10000
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=153
+    unit=TP3
+
+========================================
+
+[2021-07-27 19:59:30] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=exchange
+    price=10000
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=153
+    unit=TP3
+
+========================================
+
+[2021-07-27 19:59:31] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=exchange
+    price=10000
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=153
+    unit=TP3
+
+========================================
+
+[2021-07-27 20:02:32] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=exchange
+    price=10000
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=149
+    unit=TP3
+
+========================================
+
+[2021-07-27 20:02:34] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=exchange
+    price=10000
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=149
+    unit=TP3
+
+========================================
+
+[2021-07-27 20:02:34] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=exchange
+    price=10000
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=149
+    unit=TP3
+
+========================================
+
+[2021-07-27 20:16:35] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=14
+    unit=ETP3
+
+========================================
+

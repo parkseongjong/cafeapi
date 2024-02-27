@@ -1,0 +1,102 @@
+[2021-08-03 09:53:47] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_VA_01
+    kind=category
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [code] => C01
+            [name] => 커피 (HOT)
+        )
+
+    [1] => Array
+        (
+            [code] => C02
+            [name] => 커피 (ICE)
+        )
+
+    [2] => Array
+        (
+            [code] => C03
+            [name] => 논커피 (HOT)
+        )
+
+    [3] => Array
+        (
+            [code] => C04
+            [name] => 논커피 (ICE)
+        )
+
+    [4] => Array
+        (
+            [code] => C05
+            [name] => 에이드
+        )
+
+    [5] => Array
+        (
+            [code] => C06
+            [name] => 프라푸치노
+        )
+
+    [6] => Array
+        (
+            [code] => C12
+            [name] => 한방차&허브티
+        )
+
+    [7] => Array
+        (
+            [code] => C07
+            [name] => 스무디
+        )
+
+    [8] => Array
+        (
+            [code] => C09
+            [name] => 디저트
+        )
+
+    [9] => Array
+        (
+            [code] => C11
+            [name] => 병음료
+        )
+
+)
+
+
+========================================
+
+[2021-08-03 18:32:52] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=99
+    msg=wallet DB Connection error.
+
+========================================
+
+[2021-08-03 18:33:13] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=18
+    unit=ETP3
+
+========================================
+

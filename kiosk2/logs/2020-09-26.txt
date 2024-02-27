@@ -1,0 +1,332 @@
+[2020-09-26 08:49:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-26 08:49:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-09-26 14:57:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-26 14:57:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-26 14:57:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-26 14:57:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=0
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2020-09-26 14:58:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=86
+    unit=TP3
+
+========================================
+
+[2020-09-26 14:58:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8600
+[RET] ---------------
+    code=00
+    msg=ok
+    price=172
+    unit=TP3
+
+========================================
+
+[2020-09-26 14:58:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=172
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D172
+
+========================================
+
+[2020-09-26 14:58:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30011981
+    total_price=8600
+    from_id=0
+    ok_date=2020-09-26 14:58:37
+    detail=[
+  {
+    "code": "C05-07",
+    "name": "블루베리에이드",
+    "count": 2,
+    "price": 8600,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-26 14:59:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=138
+    unit=TP3
+
+========================================
+
+[2020-09-26 14:59:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30005701
+    total_price=6900
+    from_id=0
+    ok_date=2020-09-26 15:00:03
+    detail=[
+  {
+    "code": "C06-02",
+    "name": "쿠앤크프라푸치노",
+    "count": 1,
+    "price": 6900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-26 15:00:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=130
+    unit=TP3
+
+========================================
+
+[2020-09-26 15:00:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=75659413
+    total_price=6500
+    from_id=0
+    ok_date=2020-09-26 15:00:45
+    detail=[
+  {
+    "code": "C07-03",
+    "name": "딸기요거트스무디",
+    "count": 1,
+    "price": 6500,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-26 16:23:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-26 16:23:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=188
+    unit=TP3
+
+========================================
+
+[2020-09-26 16:23:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=67370729
+    total_price=9400
+    from_id=0
+    ok_date=2020-09-26 16:23:53
+    detail=[
+  {
+    "code": "C03-05",
+    "name": "오곡라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4400,
+    "option": " 사이즈업, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-26 18:23:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=TP3
+
+========================================
+
+[2020-09-26 18:23:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=90
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D90
+
+========================================
+
+[2020-09-26 18:23:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=68531609
+    total_price=4500
+    from_id=0
+    ok_date=2020-09-26 18:23:41
+    detail=[
+  {
+    "code": "C03-07",
+    "name": "핫초코 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

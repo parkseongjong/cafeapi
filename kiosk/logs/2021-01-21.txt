@@ -1,0 +1,6249 @@
+[2021-01-21 10:13:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2021-01-21 10:13:29
+
+========================================
+
+[2021-01-21 10:13:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:13:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=category
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [code] => C01
+            [name] => 커피 (HOT)
+        )
+
+    [1] => Array
+        (
+            [code] => C02
+            [name] => 커피 (ICE)
+        )
+
+    [2] => Array
+        (
+            [code] => C03
+            [name] => 논커피 (HOT)
+        )
+
+    [3] => Array
+        (
+            [code] => C04
+            [name] => 논커피 (ICE)
+        )
+
+    [4] => Array
+        (
+            [code] => C05
+            [name] => 에이드
+        )
+
+    [5] => Array
+        (
+            [code] => C06
+            [name] => 프라푸치노
+        )
+
+    [6] => Array
+        (
+            [code] => C12
+            [name] => 한방차&허브티
+        )
+
+    [7] => Array
+        (
+            [code] => C07
+            [name] => 스무디
+        )
+
+    [8] => Array
+        (
+            [code] => C08
+            [name] => 시그니쳐
+        )
+
+    [9] => Array
+        (
+            [code] => C09
+            [name] => 디저트
+        )
+
+    [10] => Array
+        (
+            [code] => C10
+            [name] => 마카롱
+        )
+
+    [11] => Array
+        (
+            [code] => C11
+            [name] => 병음료
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-01
+            [name] => 에스프레소 HOT
+            [price] => 2900
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/espresso.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-02
+            [name] => 아메리카노 HOT
+            [price] => 3900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/americano-hot.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-03
+            [name] => 카페라떼 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/latte-hot.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-11
+            [name] => 카푸치노 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cappuccino-hot.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-04
+            [name] => 바닐라라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/vanilla-latte-hot.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-05
+            [name] => 헤이즐넛라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/hazelnut-hot.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-06
+            [name] => 연유라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milk-latte-hot.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-07
+            [name] => 카라멜라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/caramelatte-hot.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-08
+            [name] => 카라멜마끼아또 HOT
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macchiato-hot.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-09
+            [name] => 카페모카 HOT
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mocha-hot.png
+        )
+
+    [10] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-10
+            [name] => 드립커피 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/drip-coffee-hot.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-11
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C01
+    goods=C01-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-01
+            [name] => 아메리카노 ICE
+            [price] => 4400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/americano.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-02
+            [name] => 카페라떼 ICE
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/latte.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-13
+            [name] => 카푸치노 ICE
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cappuccino-ice.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-03
+            [name] => 바닐라라떼 ICE
+            [price] => 5300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/vanilla-latte.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-04
+            [name] => 헤이즐넛라떼 ICE
+            [price] => 5300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/hazelnut.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-05
+            [name] => 연유라떼 ICE
+            [price] => 5300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milk-latte.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-06
+            [name] => 카라멜라떼 ICE
+            [price] => 5300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/caramelatte.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-07
+            [name] => 카라멜마끼아또 ICE
+            [price] => 5900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macchiato.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-08
+            [name] => 카페모카 ICE
+            [price] => 5900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mocha.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-09
+            [name] => 크림아메리카노 ICE
+            [price] => 4900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cream-americano.png
+        )
+
+    [10] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-10
+            [name] => 크림카페라떼 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cream-latte.png
+        )
+
+    [11] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-11
+            [name] => 드립커피 ICE
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/drip-coffee.png
+        )
+
+    [12] => Array
+        (
+            [cate_code] => C02
+            [code] => C02-12
+            [name] => 콜드브루 ICE
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cold-brew.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-13
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-11
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C02
+    goods=C02-12
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-01
+            [name] => 딸기라떼 HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/strawberry-latte-hot.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-02
+            [name] => 그린티라떼 HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/green-tea-latte-hot.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-03
+            [name] => 흑당라떼 HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/black-sugar-latte-hot.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-04
+            [name] => 자색고구마라떼 HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/purple-sweet-potato-latte-hot.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-05
+            [name] => 오곡라떼 HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/five-grain-latte-hot.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-09
+            [name] => 밤라떼HOT
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/chestnut-latte-hot.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-10
+            [name] => 단호박라떼HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/sweet-pumpkin-latte-hot.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-11
+            [name] => 쑥라떼HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mugwort-latte-hot.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-06
+            [name] => 밀크티 HOT
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milk-tea-hot.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C03
+            [code] => C03-07
+            [name] => 핫초코 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/hot-choco.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-11
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C03
+    goods=C03-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-01
+            [name] => 딸기라떼 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/strawberry-latte.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-02
+            [name] => 그린티라떼 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/green-tea-latte.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-03
+            [name] => 흑당라떼 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/black-sugar-latte.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-04
+            [name] => 자색고구마라떼 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/purple-sweet-potato-latte.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-05
+            [name] => 오곡라떼 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/five-grain-latte.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-12
+            [name] => 밤라떼ICE
+            [price] => 6000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/chestnut-latte-ice.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-13
+            [name] => 단호박라떼ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/sweet-pumpkin-latte-ice.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-14
+            [name] => 쑥라떼ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mugwort-latte-ice.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-06
+            [name] => 밀크티 ICE
+            [price] => 5500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milk-tea.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-07
+            [name] => 아이스초코 ICE
+            [price] => 5000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/ice-choco.png
+        )
+
+    [10] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-08
+            [name] => 복숭아아이스티 ICE
+            [price] => 4000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/icetea-peach.png
+        )
+
+    [11] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-09
+            [name] => 레몬아이스티 ICE
+            [price] => 4000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/icetea-lemon.png
+        )
+
+    [12] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-10
+            [name] => 생과일오렌지주스 ICE
+            [price] => 7000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/fruit-orange-juice.png
+        )
+
+    [13] => Array
+        (
+            [cate_code] => C04
+            [code] => C04-15
+            [name] => 바나나생과일주스ICE
+            [price] => 6500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/fruit-banana-juice-ice.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-12
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-13
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-14
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C04
+    goods=C04-15
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-01
+            [name] => 레몬에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/lemonade.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-02
+            [name] => 블루레몬에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/blue-lemonade.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-03
+            [name] => 자몽에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/grapefruit-ade.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-04
+            [name] => 망고에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mangoide.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-05
+            [name] => 청포도에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/green-grape-ade.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-06
+            [name] => 석류에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/pomegranate.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C05
+            [code] => C05-07
+            [name] => 블루베리에이드
+            [price] => 4300
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/blueberryide.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C05
+    goods=C05-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C06
+            [code] => C06-01
+            [name] => 자바칩프라푸치노
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/java-chip-frappuccino.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C06
+            [code] => C06-02
+            [name] => 쿠앤크프라푸치노
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/kooandcoo-frappuccino.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C06
+            [code] => C06-03
+            [name] => 민트초코프라푸치노
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mint-chip-frappuccino.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C06
+            [code] => C06-04
+            [name] => 죠리퐁프라푸치노
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/Jollypong-frappuccino.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C06
+    goods=C06-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C06
+    goods=C06-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:14:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C06
+    goods=C06-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C06
+    goods=C06-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [name] => 선택2
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 선택안함
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 샷추가
+                            [price] => 500
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 휘핑추가
+                            [price] => 500
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 샷 + 휘핑추가
+                            [price] => 1000
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C12
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-01
+            [name] => 로즈힙 히비스커스 체리 HOT
+            [price] => 4000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/rose-hot.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-02
+            [name] => 로즈힙 히비스커스 체리 ICE
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/rose-ice.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-03
+            [name] => 얼그레이 HOT
+            [price] => 4000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/elgray-hot.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-04
+            [name] => 얼그레이 ICE
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/elgray-ice.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-05
+            [name] => 캐모마일 레몬그라스 HOT
+            [price] => 4000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/Chamomile-hot.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-06
+            [name] => 캐모마일 레몬그라스 ICE
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/Chamomile-ice.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-07
+            [name] => 페퍼민트 레몬티 HOT
+            [price] => 4000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/Peppermint-hot.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-08
+            [name] => 페퍼민트 레몬티 ICE
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/Peppermint-ice.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-09
+            [name] => 꿀유자차HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/honey-citron-tea-hot.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-10
+            [name] => 레몬생강차HOT
+            [price] => 6000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/lemon-ginger-tea-hot.png
+        )
+
+    [10] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-11
+            [name] => 꿀도라지대추차HOT
+            [price] => 6000
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/hooney-dorajijujube-tea-hot.png
+        )
+
+    [11] => Array
+        (
+            [cate_code] => C12
+            [code] => C12-12
+            [name] => 한방쌍화차HOT
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/ssanghwacha-tea-hot.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-11
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C12
+    goods=C12-12
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-01
+            [name] => 플레인요거트스무디
+            [price] => 6200
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/plain-yogurt.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-02
+            [name] => 믹스베리요거트스무디
+            [price] => 6500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mixberry-yogurt.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-03
+            [name] => 딸기요거트스무디
+            [price] => 6500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/strawberry-yogurt.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-04
+            [name] => 블루베리요거트스무디
+            [price] => 6500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/blueberry-yogurt.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-05
+            [name] => 딸기스무디
+            [price] => 6500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/strawberry_smoothie.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-06
+            [name] => 블루베리스무디
+            [price] => 6500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/blueberry_smoothie.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C07
+            [code] => C07-07
+            [name] => 바나나오곡쉐이크
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/banana_five_grain.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C07
+    goods=C07-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C08
+            [code] => C08-01
+            [name] => 엠버레몬 (HOT)
+            [price] => 4900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/amber-lemon-hot.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C08
+            [code] => C08-02
+            [name] => 스위트엠버레몬 (HOT)
+            [price] => 4900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/sweet-amber-lemon-hot.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C08
+            [code] => C08-03
+            [name] => 엠버레몬 (ICE)
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/amber-lemon.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C08
+            [code] => C08-04
+            [name] => 스위트엠버레몬 (ICE)
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/sweet-amber-lemon.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C08
+            [code] => C08-05
+            [name] => 오렌지멜로우
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/orange-mellow.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C08
+            [code] => C08-06
+            [name] => 자몽멜로우
+            [price] => 6900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/grapefruit-mellow.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C08
+    goods=C08-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C08
+    goods=C08-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C08
+    goods=C08-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C08
+    goods=C08-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C08
+    goods=C08-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C08
+    goods=C08-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 선택1
+            [option] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => 기본사이즈
+                            [price] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 사이즈업
+                            [price] => 500
+                        )
+
+                )
+
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-01
+            [name] => 에멘탈 치즈케익
+            [price] => 6000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/emmental.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-02
+            [name] => 티라미수케익
+            [price] => 6000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/tiramisu.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-03
+            [name] => 허니브레드
+            [price] => 5000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/honeybread.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-04
+            [name] => 우유크림카스테라
+            [price] => 6000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milkcream.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-05
+            [name] => 플레인베이글
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/bagel_plain.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-06
+            [name] => 블루베리베이글
+            [price] => 3000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/bagel_blueberry.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-07
+            [name] => 어니언베이글
+            [price] => 3000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/bagel_onion.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-08
+            [name] => 폴리 크림치즈
+            [price] => 1000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/polycreamcheese.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-10
+            [name] => 딸기잼
+            [price] => 700
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/strawberry_jam.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-11
+            [name] => 블루베리잼
+            [price] => 700
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/blueberry_jam.png
+        )
+
+    [10] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-12
+            [name] => 데이비드쿠키 (초코칩)
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cookie_choco.png
+        )
+
+    [11] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-13
+            [name] => 데이비드쿠키 (더블초코칩)
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cookie_doublechoco.png
+        )
+
+    [12] => Array
+        (
+            [cate_code] => C09
+            [code] => C09-14
+            [name] => 데이비드쿠키 (피넛버터)
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/cookie_butter.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-11
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-12
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-13
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C09
+    goods=C09-14
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-01
+            [name] => 바닐라 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_vanilla.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-02
+            [name] => 레드벨벳 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_red.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-03
+            [name] => 딸기 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_strawberry.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-04
+            [name] => 다크초코가나슈 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_darkchoco.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-05
+            [name] => 크림브륄레 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_cream.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-06
+            [name] => 녹차 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_greentea.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-07
+            [name] => 오레오 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_oreo.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-08
+            [name] => 황치즈 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_yellowcheese.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C10
+            [code] => C10-10
+            [name] => 흑임자 마카롱
+            [price] => 2500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macaron_blacksesame.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-04
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C10
+    goods=C10-10
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=goods
+    category=C11
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-01
+            [name] => 페리에 탄산수 (플레인)
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/perrier_plain.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-02
+            [name] => 페리에 탄산수 (라임)
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/perrier_lime.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-03
+            [name] => 페리에 탄산수 (레몬)
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/perrier_lemon.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-09
+            [name] => 바질씨드드링크 (청포도)
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/dolce_whitegrape.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-05
+            [name] => 바질씨드드링크 (리치)
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/dolce.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-06
+            [name] => 마르티넬리 골드메달 스파클링 애플쥬스
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/martinelli_spark.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-07
+            [name] => 마르티넬리 골드메달 애플쥬스
+            [price] => 3500
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/martinelli_gold_apple.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C11
+            [code] => C11-08
+            [name] => 해양심층수 6배수
+            [price] => 2000
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/six_times_water.png
+        )
+
+)
+
+
+========================================
+
+[2021-01-21 10:15:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-02
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-03
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-09
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-05
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-06
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-07
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+
+[2021-01-21 10:15:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=option
+    category=C11
+    goods=C11-08
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+)
+
+
+========================================
+

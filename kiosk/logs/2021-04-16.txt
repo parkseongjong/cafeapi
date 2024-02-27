@@ -1,0 +1,30 @@
+[2021-04-16 14:40:08] : 211.44.188.4
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=33
+    unit=ETP3
+
+========================================
+
+[2021-04-16 14:40:19] : 211.44.188.4
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=33
+    unit=ETP3
+
+========================================
+

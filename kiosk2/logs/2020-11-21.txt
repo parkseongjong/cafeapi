@@ -1,0 +1,6580 @@
+[2020-11-21 09:30:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-21 09:30:09
+
+========================================
+
+[2020-11-21 09:30:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-21 09:30:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-21 11:37:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=130
+    unit=ETP3
+
+========================================
+
+[2020-11-21 11:37:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=130
+    unit=ETP3
+
+========================================
+
+[2020-11-21 11:37:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=108
+    unit=EMC
+
+========================================
+
+[2020-11-21 11:37:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=260
+    unit=ETP3
+
+========================================
+
+[2020-11-21 11:37:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=260
+    unit=ETP3
+
+========================================
+
+[2020-11-21 11:37:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=EMC
+
+========================================
+
+[2020-11-21 11:38:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D260%7Cetp3
+
+========================================
+
+[2020-11-21 11:38:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 11:38:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 11:38:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 11:38:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 11:38:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 11:38:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 11:38:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-21 11:38:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 11:38:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 51
+
+========================================
+
+[2020-11-21 11:38:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 11:38:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 58
+
+========================================
+
+[2020-11-21 11:38:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 61
+
+========================================
+
+[2020-11-21 11:38:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 64
+
+========================================
+
+[2020-11-21 11:38:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 67
+
+========================================
+
+[2020-11-21 11:39:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 71
+
+========================================
+
+[2020-11-21 11:39:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 74
+
+========================================
+
+[2020-11-21 11:39:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 77
+
+========================================
+
+[2020-11-21 11:39:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 81
+
+========================================
+
+[2020-11-21 11:39:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 84
+
+========================================
+
+[2020-11-21 11:39:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 87
+
+========================================
+
+[2020-11-21 11:39:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 91
+
+========================================
+
+[2020-11-21 11:39:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 94
+
+========================================
+
+[2020-11-21 11:39:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 97
+
+========================================
+
+[2020-11-21 11:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 100
+
+========================================
+
+[2020-11-21 11:39:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 104
+
+========================================
+
+[2020-11-21 11:39:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 107
+
+========================================
+
+[2020-11-21 11:39:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 11:38:30
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605926380_793
+    id=188
+
+========================================
+
+[2020-11-21 11:39:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605926380_793
+    total_price=260
+    from_id=188
+    ok_date=2020-11-21 11:38:30
+    detail=[
+  {
+    "code": "C12-11",
+    "name": "꿀도라지대추차HOT",
+    "count": 2,
+    "price": 13000,
+    "option": " 사이즈업"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 13:05:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:05:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:05:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=65
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:05:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=174
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:05:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=174
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:05:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=145
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:08:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:08:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:08:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=65
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:08:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=156
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:08:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=156
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:08:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=130
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:08:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D156%7Cetp3
+
+========================================
+
+[2020-11-21 13:08:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 13:08:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:08:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-21 13:09:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 13:09:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 13:09:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 42
+
+========================================
+
+[2020-11-21 13:09:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-21 13:09:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 13:09:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:09:06
+    price=156
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605931757_311
+    id=1626
+
+========================================
+
+[2020-11-21 13:09:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605931757_311
+    total_price=156
+    from_id=1626
+    ok_date=2020-11-21 13:09:06
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 2,
+    "price": 7800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 13:10:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:10:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:10:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:10:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:10:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:10:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:10:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:10:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:10:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:11:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D240%7Cetp3
+
+========================================
+
+[2020-11-21 13:11:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 13:11:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:11:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 13:11:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 13:11:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 13:11:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 13:11:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 13:11:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 13:11:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:11:22
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605931893_125
+    id=96
+
+========================================
+
+[2020-11-21 13:11:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605931893_125
+    total_price=240
+    from_id=96
+    ok_date=2020-11-21 13:11:22
+    detail=[
+  {
+    "code": "C12-11",
+    "name": "꿀도라지대추차HOT",
+    "count": 1,
+    "price": 6000,
+    "option": " 기본사이즈"
+  },
+  {
+    "code": "C09-01",
+    "name": "에멘탈 치즈케익",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 13:12:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:12:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:12:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:12:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:12:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:12:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:12:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D240%7Cetp3
+
+========================================
+
+[2020-11-21 13:12:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 13:12:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:12:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 13:12:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 13:12:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 13:12:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 13:13:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 13:13:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:12:56
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605931984_492
+    id=7171
+
+========================================
+
+[2020-11-21 13:13:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605931984_492
+    total_price=240
+    from_id=7171
+    ok_date=2020-11-21 13:12:56
+    detail=[
+  {
+    "code": "C12-10",
+    "name": "레몬생강차HOT",
+    "count": 1,
+    "price": 6000,
+    "option": " 기본사이즈"
+  },
+  {
+    "code": "C12-11",
+    "name": "꿀도라지대추차HOT",
+    "count": 1,
+    "price": 6000,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 13:13:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:13:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:13:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:13:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=198
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:13:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=198
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:13:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=165
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:13:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D165%7Cemc
+
+========================================
+
+[2020-11-21 13:14:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 13:14:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:14:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-21 13:14:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 13:14:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 13:14:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 13:14:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-21 13:14:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 13:14:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 51
+
+========================================
+
+[2020-11-21 13:14:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 13:14:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:14:16
+    price=165
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605932074_704
+    id=1562
+
+========================================
+
+[2020-11-21 13:14:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=EMC
+    approval_no=1605932074_704
+    total_price=165
+    from_id=1562
+    ok_date=2020-11-21 13:14:16
+    detail=[
+  {
+    "code": "C09-02",
+    "name": "티라미수케익",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  },
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=55
+    msg=저장중 오류.
+
+========================================
+
+[2020-11-21 13:29:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:29:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:29:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=73
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:29:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D88%7Cetp3
+
+========================================
+
+[2020-11-21 13:29:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:30:12
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 13:30:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:30:12
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:30:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:30:12
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 13:30:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:30:12
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 13:30:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:30:12
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 13:30:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:30:12
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605933013_157
+    id=10220
+
+========================================
+
+[2020-11-21 13:30:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605933013_157
+    total_price=88
+    from_id=10220
+    ok_date=2020-11-21 13:30:12
+    detail=[
+  {
+    "code": "C02-01",
+    "name": "아메리카노 ICE",
+    "count": 1,
+    "price": 4400,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 13:30:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:30:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:30:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:31:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=170
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:31:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=170
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:31:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=141
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:31:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=220
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:31:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=220
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:31:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=183
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:31:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=220
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D220%7Cetp3
+
+========================================
+
+[2020-11-21 13:31:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:31:41
+    price=220
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 13:31:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:31:41
+    price=220
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:31:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:31:41
+    price=220
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605933092_854
+    id=2086
+
+========================================
+
+[2020-11-21 13:31:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605933092_854
+    total_price=220
+    from_id=2086
+    ok_date=2020-11-21 13:31:41
+    detail=[
+  {
+    "code": "C12-11",
+    "name": "꿀도라지대추차HOT",
+    "count": 1,
+    "price": 6000,
+    "option": " 기본사이즈"
+  },
+  {
+    "code": "C10-03",
+    "name": "딸기 마카롱",
+    "count": 2,
+    "price": 5000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 13:53:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:53:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:53:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=83
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:53:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:53:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=ETP3
+
+========================================
+
+[2020-11-21 13:53:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=166
+    unit=EMC
+
+========================================
+
+[2020-11-21 13:53:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D200%7Cetp3
+
+========================================
+
+[2020-11-21 13:53:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 13:53:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 13:54:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 13:54:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 13:54:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 13:54:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 13:54:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 13:54:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 13:54:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 51
+
+========================================
+
+[2020-11-21 13:54:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 13:54:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-21 13:54:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 13:54:10
+    price=200
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605934470_283
+    id=3223
+
+========================================
+
+[2020-11-21 13:54:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605934470_283
+    total_price=200
+    from_id=3223
+    ok_date=2020-11-21 13:54:10
+    detail=[
+  {
+    "code": "C03-05",
+    "name": "오곡라떼 HOT",
+    "count": 2,
+    "price": 10000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 14:01:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-21 14:01:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-21 14:01:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=75
+    unit=EMC
+
+========================================
+
+[2020-11-21 14:02:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D75%7Cemc
+
+========================================
+
+[2020-11-21 14:02:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 14:02:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 14:02:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 14:02:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 14:02:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 14:02:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 14:02:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 14:02:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:02:31
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 14:02:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D90%7Cetp3
+
+========================================
+
+[2020-11-21 14:02:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 14:02:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 14:02:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 14:03:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 14:03:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 14:03:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 14:03:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-21 14:03:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 14:03:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 51
+
+========================================
+
+[2020-11-21 14:03:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 14:03:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 58
+
+========================================
+
+[2020-11-21 14:03:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 61
+
+========================================
+
+[2020-11-21 14:03:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 64
+
+========================================
+
+[2020-11-21 14:03:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 68
+
+========================================
+
+[2020-11-21 14:03:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 71
+
+========================================
+
+[2020-11-21 14:03:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 14:03:05
+    price=90
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605935019_372
+    id=3818
+
+========================================
+
+[2020-11-21 14:03:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605935019_372
+    total_price=90
+    from_id=3818
+    ok_date=2020-11-21 14:03:05
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 15:02:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:02:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:02:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=91
+    unit=EMC
+
+========================================
+
+[2020-11-21 15:02:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:02:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:02:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=EMC
+
+========================================
+
+[2020-11-21 15:02:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=26005236
+    total_price=12000
+    from_id=0
+    ok_date=2020-11-21 15:02:57
+    detail=[
+  {
+    "code": "C04-01",
+    "name": "딸기라떼 ICE",
+    "count": 1,
+    "price": 5500,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C07-05",
+    "name": "딸기스무디",
+    "count": 1,
+    "price": 6500,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 15:17:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:17:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:17:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-21 15:18:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:18:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:18:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=EMC
+
+========================================
+
+[2020-11-21 15:18:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D240%7Cetp3
+
+========================================
+
+[2020-11-21 15:18:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:18:54
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 15:18:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:18:54
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 15:18:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:18:54
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 15:18:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:18:54
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 15:18:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:18:54
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 15:18:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:18:54
+    price=240
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605939535_430
+    id=1382
+
+========================================
+
+[2020-11-21 15:18:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605939535_430
+    total_price=240
+    from_id=1382
+    ok_date=2020-11-21 15:18:54
+    detail=[
+  {
+    "code": "C09-02",
+    "name": "티라미수케익",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  },
+  {
+    "code": "C09-04",
+    "name": "우유크림카스테라",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 15:48:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:48:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=ETP3
+
+========================================
+
+[2020-11-21 15:48:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=73
+    unit=EMC
+
+========================================
+
+[2020-11-21 15:49:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D88%7Cetp3
+
+========================================
+
+[2020-11-21 15:49:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:49:30
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 15:49:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:49:30
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 15:49:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:49:30
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 15:49:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:49:30
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 15:49:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:49:30
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 15:49:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 15:49:30
+    price=88
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605941371_135
+    id=3818
+
+========================================
+
+[2020-11-21 15:49:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605941371_135
+    total_price=88
+    from_id=3818
+    ok_date=2020-11-21 15:49:30
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4400,
+    "option": " 기본사이즈, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 16:12:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:12:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:12:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:13:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D80%7Cemc
+
+========================================
+
+[2020-11-21 16:13:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 25
+
+========================================
+
+[2020-11-21 16:13:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 16:13:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 16:13:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-21 16:13:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 16:13:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 16:13:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:13:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-21 16:13:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 51
+
+========================================
+
+[2020-11-21 16:13:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:13:37
+    price=80
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605942831_725
+    id=6074
+
+========================================
+
+[2020-11-21 16:13:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=EMC
+    approval_no=1605942831_725
+    total_price=80
+    from_id=6074
+    ok_date=2020-11-21 16:13:37
+    detail=[
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=55
+    msg=저장중 오류.
+
+========================================
+
+[2020-11-21 16:15:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:15:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:15:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:15:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D96%7Cetp3
+
+========================================
+
+[2020-11-21 16:15:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 16:15:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 16:15:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 16:15:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 16:16:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 16:16:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 16:16:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:16:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 16:16:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 16:16:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:16:05
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605942979_756
+    id=1521
+
+========================================
+
+[2020-11-21 16:16:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605942979_756
+    total_price=96
+    from_id=1521
+    ok_date=2020-11-21 16:16:05
+    detail=[
+  {
+    "code": "C01-07",
+    "name": "카라멜라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 16:26:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:26:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:26:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:27:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D96%7Cetp3
+
+========================================
+
+[2020-11-21 16:27:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 16:27:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 16:27:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 16:27:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 16:27:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 16:27:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-21 16:27:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:27:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 16:27:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 16:27:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 53
+
+========================================
+
+[2020-11-21 16:27:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-21 16:28:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 60
+
+========================================
+
+[2020-11-21 16:28:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 63
+
+========================================
+
+[2020-11-21 16:28:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 67
+
+========================================
+
+[2020-11-21 16:28:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 70
+
+========================================
+
+[2020-11-21 16:28:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 73
+
+========================================
+
+[2020-11-21 16:28:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 76
+
+========================================
+
+[2020-11-21 16:28:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:27:40
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605943700_682
+    id=3680
+
+========================================
+
+[2020-11-21 16:28:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605943700_682
+    total_price=96
+    from_id=3680
+    ok_date=2020-11-21 16:27:40
+    detail=[
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 16:29:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:29:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:29:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:29:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D96%7Cetp3
+
+========================================
+
+[2020-11-21 16:29:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 16:29:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 16:29:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 30
+
+========================================
+
+[2020-11-21 16:29:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 16:29:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 16:29:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-21 16:29:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:29:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 16:29:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 16:29:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 53
+
+========================================
+
+[2020-11-21 16:29:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-21 16:29:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:29:37
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605943797_690
+    id=1521
+
+========================================
+
+[2020-11-21 16:29:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605943797_690
+    total_price=96
+    from_id=1521
+    ok_date=2020-11-21 16:29:37
+    detail=[
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 16:31:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:31:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:31:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=33
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:31:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:31:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:31:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=66
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:31:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D80%7Cetp3
+
+========================================
+
+[2020-11-21 16:31:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 16:31:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 16:31:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 16:31:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 16:31:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 16:31:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-21 16:31:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:32:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 16:32:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 16:32:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 16:32:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-21 16:32:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 60
+
+========================================
+
+[2020-11-21 16:32:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 63
+
+========================================
+
+[2020-11-21 16:32:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 67
+
+========================================
+
+[2020-11-21 16:32:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 70
+
+========================================
+
+[2020-11-21 16:32:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 73
+
+========================================
+
+[2020-11-21 16:32:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 76
+
+========================================
+
+[2020-11-21 16:32:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 80
+
+========================================
+
+[2020-11-21 16:32:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 83
+
+========================================
+
+[2020-11-21 16:32:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 86
+
+========================================
+
+[2020-11-21 16:32:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 90
+
+========================================
+
+[2020-11-21 16:32:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 93
+
+========================================
+
+[2020-11-21 16:32:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 96
+
+========================================
+
+[2020-11-21 16:32:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 99
+
+========================================
+
+[2020-11-21 16:32:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 103
+
+========================================
+
+[2020-11-21 16:33:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 106
+
+========================================
+
+[2020-11-21 16:33:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 109
+
+========================================
+
+[2020-11-21 16:33:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 113
+
+========================================
+
+[2020-11-21 16:33:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 116
+
+========================================
+
+[2020-11-21 16:33:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:31:55
+    price=80
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605943994_295
+    id=3680
+
+========================================
+
+[2020-11-21 16:33:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605943994_295
+    total_price=80
+    from_id=3680
+    ok_date=2020-11-21 16:31:55
+    detail=[
+  {
+    "code": "C11-08",
+    "name": "해양심층수 6배수",
+    "count": 1,
+    "price": 2000,
+    "option": ""
+  },
+  {
+    "code": "C11-08",
+    "name": "해양심층수 6배수",
+    "count": 1,
+    "price": 2000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 16:33:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=130
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:33:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=130
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:33:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=108
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:33:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=260
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:33:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=260
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:33:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:33:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D260%7Cetp3
+
+========================================
+
+[2020-11-21 16:34:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 16:34:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-21 16:34:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 16:34:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 16:34:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-21 16:34:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 16:34:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:34:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:34:17
+    price=260
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605944065_938
+    id=1591
+
+========================================
+
+[2020-11-21 16:34:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605944065_938
+    total_price=260
+    from_id=1591
+    ok_date=2020-11-21 16:34:17
+    detail=[
+  {
+    "code": "C12-11",
+    "name": "꿀도라지대추차HOT",
+    "count": 2,
+    "price": 13000,
+    "option": " 사이즈업"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 16:37:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:37:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:37:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=83
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:38:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=190
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:38:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=190
+    unit=ETP3
+
+========================================
+
+[2020-11-21 16:38:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=158
+    unit=EMC
+
+========================================
+
+[2020-11-21 16:38:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D190%7Cetp3
+
+========================================
+
+[2020-11-21 16:38:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 16:38:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 16:38:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 16:38:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 16:38:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 16:38:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-21 16:38:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 16:38:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 16:38:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 16:38:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 16:39:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-21 16:39:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 60
+
+========================================
+
+[2020-11-21 16:39:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 64
+
+========================================
+
+[2020-11-21 16:39:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 67
+
+========================================
+
+[2020-11-21 16:39:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 70
+
+========================================
+
+[2020-11-21 16:39:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 73
+
+========================================
+
+[2020-11-21 16:39:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 77
+
+========================================
+
+[2020-11-21 16:39:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 80
+
+========================================
+
+[2020-11-21 16:39:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 83
+
+========================================
+
+[2020-11-21 16:39:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 87
+
+========================================
+
+[2020-11-21 16:39:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 90
+
+========================================
+
+[2020-11-21 16:39:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 16:38:44
+    price=190
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605944377_763
+    id=2482
+
+========================================
+
+[2020-11-21 16:39:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605944377_763
+    total_price=190
+    from_id=2482
+    ok_date=2020-11-21 16:38:44
+    detail=[
+  {
+    "code": "C03-04",
+    "name": "자색고구마라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C01-11",
+    "name": "카푸치노 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 18:39:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:39:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:39:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=91
+    unit=EMC
+
+========================================
+
+[2020-11-21 18:39:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=220
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:39:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=220
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:39:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=183
+    unit=EMC
+
+========================================
+
+[2020-11-21 18:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=320
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=320
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=266
+    unit=EMC
+
+========================================
+
+[2020-11-21 18:40:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=20300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=406
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:40:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=20300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=406
+    unit=ETP3
+
+========================================
+
+[2020-11-21 18:40:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=20300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=338
+    unit=EMC
+
+========================================
+
+[2020-11-21 18:40:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=73054659
+    total_price=20300
+    from_id=0
+    ok_date=2020-11-21 18:40:31
+    detail=[
+  {
+    "code": "C03-09",
+    "name": "밤라떼HOT",
+    "count": 2,
+    "price": 11000,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C03-06",
+    "name": "밀크티 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C05-03",
+    "name": "자몽에이드",
+    "count": 1,
+    "price": 4300,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 20:14:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-21 20:14:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-21 20:14:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=75
+    unit=EMC
+
+========================================
+
+[2020-11-21 20:14:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D75%7Cemc
+
+========================================
+
+[2020-11-21 20:14:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 20:14:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 20:14:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 30
+
+========================================
+
+[2020-11-21 20:14:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 20:15:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 20:15:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-21 20:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:15:03
+    price=75
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605957307_211
+    id=1803
+
+========================================
+
+[2020-11-21 20:15:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=EMC
+    approval_no=1605957307_211
+    total_price=75
+    from_id=1803
+    ok_date=2020-11-21 20:15:03
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=55
+    msg=저장중 오류.
+
+========================================
+
+[2020-11-21 20:26:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-21 20:26:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-21 20:26:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=81
+    unit=EMC
+
+========================================
+
+[2020-11-21 20:26:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D98%7Cetp3
+
+========================================
+
+[2020-11-21 20:26:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 20:26:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 20:26:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-21 20:26:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-21 20:26:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 20:27:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-21 20:27:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-21 20:27:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-21 20:27:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 20:27:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-21 20:27:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-21 20:27:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:27:00
+    price=98
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605958040_628
+    id=1591
+
+========================================
+
+[2020-11-21 20:27:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605958040_628
+    total_price=98
+    from_id=1591
+    ok_date=2020-11-21 20:27:00
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 20:58:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 20:58:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-21 20:58:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=EMC
+
+========================================
+
+[2020-11-21 20:58:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D96%7Cetp3
+
+========================================
+
+[2020-11-21 20:58:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 23
+
+========================================
+
+[2020-11-21 20:58:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 20:58:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 30
+
+========================================
+
+[2020-11-21 20:58:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 33
+
+========================================
+
+[2020-11-21 20:58:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 20:58:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-21 20:59:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 43
+
+========================================
+
+[2020-11-21 20:59:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 46
+
+========================================
+
+[2020-11-21 20:59:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-21 20:59:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 53
+
+========================================
+
+[2020-11-21 20:59:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 56
+
+========================================
+
+[2020-11-21 20:59:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 60
+
+========================================
+
+[2020-11-21 20:59:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 63
+
+========================================
+
+[2020-11-21 20:59:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 66
+
+========================================
+
+[2020-11-21 20:59:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 69
+
+========================================
+
+[2020-11-21 20:59:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 73
+
+========================================
+
+[2020-11-21 20:59:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 76
+
+========================================
+
+[2020-11-21 20:59:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 79
+
+========================================
+
+[2020-11-21 20:59:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 83
+
+========================================
+
+[2020-11-21 20:59:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 86
+
+========================================
+
+[2020-11-21 20:59:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 89
+
+========================================
+
+[2020-11-21 20:59:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 92
+
+========================================
+
+[2020-11-21 20:59:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 96
+
+========================================
+
+[2020-11-21 20:59:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 99
+
+========================================
+
+[2020-11-21 21:00:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 102
+
+========================================
+
+[2020-11-21 21:00:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 106
+
+========================================
+
+[2020-11-21 21:00:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 109
+
+========================================
+
+[2020-11-21 21:00:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 112
+
+========================================
+
+[2020-11-21 21:00:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 115
+
+========================================
+
+[2020-11-21 21:00:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 20:58:59
+    price=96
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605960018_896
+    id=1521
+
+========================================
+
+[2020-11-21 21:00:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605960018_896
+    total_price=96
+    from_id=1521
+    ok_date=2020-11-21 20:58:59
+    detail=[
+  {
+    "code": "C01-07",
+    "name": "카라멜라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-21 21:05:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-21 21:05:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-21 21:05:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=91
+    unit=EMC
+
+========================================
+
+[2020-11-21 21:06:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D110%7Cetp3
+
+========================================
+
+[2020-11-21 21:06:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 21:06:30
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 24
+
+========================================
+
+[2020-11-21 21:06:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 21:06:30
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 27
+
+========================================
+
+[2020-11-21 21:06:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 21:06:30
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 30
+
+========================================
+
+[2020-11-21 21:06:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 21:06:30
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 33
+
+========================================
+
+[2020-11-21 21:06:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 21:06:30
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 37
+
+========================================
+
+[2020-11-21 21:06:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-21 21:06:30
+    price=110
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1605960390_622
+    id=1578
+
+========================================
+
+[2020-11-21 21:06:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=ETP3
+    approval_no=1605960390_622
+    total_price=110
+    from_id=1578
+    ok_date=2020-11-21 21:06:30
+    detail=[
+  {
+    "code": "C04-01",
+    "name": "딸기라떼 ICE",
+    "count": 1,
+    "price": 5500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

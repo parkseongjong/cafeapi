@@ -1,0 +1,13 @@
+[2021-10-01 12:12:39] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=1000
+    unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D1000%7Cetp3
+
+========================================
+

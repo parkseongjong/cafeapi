@@ -1,0 +1,8293 @@
+[2020-11-10 00:29:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 00:29:23
+
+========================================
+
+[2020-11-10 00:29:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:29:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:29:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 00:29:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 00:29:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-10 00:29:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875140
+    total_price=2900
+    from_id=0
+    ok_date=2020-11-10 00:29:31
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 00:32:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 00:32:20
+
+========================================
+
+[2020-11-10 00:32:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:32:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:32:31] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 00:32:31] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 00:32:31] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=EMC
+
+========================================
+
+[2020-11-10 00:32:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=ETP3
+
+========================================
+
+[2020-11-10 00:32:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=ETP3
+
+========================================
+
+[2020-11-10 00:32:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=EMC
+
+========================================
+
+[2020-11-10 00:32:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875141
+    total_price=10700
+    from_id=0
+    ok_date=2020-11-10 00:32:47
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  },
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 5800,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 00:36:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 00:36:47
+
+========================================
+
+[2020-11-10 00:36:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:36:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:49:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 00:49:29
+
+========================================
+
+[2020-11-10 00:49:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:49:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:49:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875140
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 00:53:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 00:53:17
+
+========================================
+
+[2020-11-10 00:53:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 00:53:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 01:00:07] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 01:00:07
+
+========================================
+
+[2020-11-10 01:00:07] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 01:00:07] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 01:03:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 01:03:56
+
+========================================
+
+[2020-11-10 01:03:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 01:03:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 10:04:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 10:04:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 10:29:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 10:29:16
+
+========================================
+
+[2020-11-10 10:29:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 10:29:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 10:29:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=116
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:29:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=116
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:29:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=116
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:29:50] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12200
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=244
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:29:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12200
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=244
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:29:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12200
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=244
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:30:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875173
+    total_price=12200
+    from_id=0
+    ok_date=2020-11-10 10:29:55
+    detail=[
+  {
+    "code": "C01-07",
+    "name": "카라멜라떼 HOT",
+    "count": 1,
+    "price": 5800,
+    "option": " 사이즈업, 샷추가"
+  },
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 6400,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 10:31:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875141
+    total_price=10700
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 10:32:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:32:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:32:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:32:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=14000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:32:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=14000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:32:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=14000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:32:25] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875176
+    total_price=14000
+    from_id=0
+    ok_date=2020-11-10 10:32:20
+    detail=[
+  {
+    "code": "C07-02",
+    "name": "믹스베리요거트스무디",
+    "count": 1,
+    "price": 7000,
+    "option": " 사이즈업"
+  },
+  {
+    "code": "C07-06",
+    "name": "블루베리스무디",
+    "count": 1,
+    "price": 7000,
+    "option": " 사이즈업"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 10:33:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=250
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=250
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=250
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:45] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=300
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:45] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=300
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:45] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=300
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=350
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=350
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=350
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=400
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=400
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=400
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=22500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=450
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=22500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=450
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=22500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=450
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:33:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=500
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=500
+    unit=ETP3
+
+========================================
+
+[2020-11-10 10:33:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=500
+    unit=EMC
+
+========================================
+
+[2020-11-10 10:34:01] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875178
+    total_price=25000
+    from_id=0
+    ok_date=2020-11-10 10:33:55
+    detail=[
+  {
+    "code": "C10-02",
+    "name": "레드벨벳 마카롱",
+    "count": 5,
+    "price": 12500,
+    "option": ""
+  },
+  {
+    "code": "C10-06",
+    "name": "녹차 마카롱",
+    "count": 5,
+    "price": 12500,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 13:19:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=TP3
+
+========================================
+
+[2020-11-10 13:19:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=120
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D120
+
+========================================
+
+[2020-11-10 13:20:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:21:27
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 13:20:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:21:27
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 29
+
+========================================
+
+[2020-11-10 13:20:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:21:27
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-10 13:20:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:21:27
+    price=120
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604982023_844
+    id=1405
+
+========================================
+
+[2020-11-10 13:20:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604982023_844
+    total_price=120
+    from_id=1405
+    ok_date=2020-11-10 13:21:27
+    detail=[
+  {
+    "code": "C12-11",
+    "name": "꿀도라지대추차HOT",
+    "count": 1,
+    "price": 6000,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 13:20:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-11-10 13:20:55] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D78
+
+========================================
+
+[2020-11-10 13:21:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:15
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 13:21:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:15
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 30
+
+========================================
+
+[2020-11-10 13:21:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:15
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604982068_932
+    id=1803
+
+========================================
+
+[2020-11-10 13:21:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604982068_932
+    total_price=78
+    from_id=1803
+    ok_date=2020-11-10 13:22:15
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 13:21:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-11-10 13:21:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D78
+
+========================================
+
+[2020-11-10 13:21:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 13:21:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 29
+
+========================================
+
+[2020-11-10 13:21:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-10 13:21:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 36
+
+========================================
+
+[2020-11-10 13:21:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 39
+
+========================================
+
+[2020-11-10 13:21:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 42
+
+========================================
+
+[2020-11-10 13:21:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-10 13:22:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 49
+
+========================================
+
+[2020-11-10 13:22:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:22:54
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604982126_788
+    id=1514
+
+========================================
+
+[2020-11-10 13:22:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604982126_788
+    total_price=78
+    from_id=1514
+    ok_date=2020-11-10 13:22:54
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 13:36:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-11-10 13:36:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D78
+
+========================================
+
+[2020-11-10 13:36:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 13:36:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 29
+
+========================================
+
+[2020-11-10 13:36:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-10 13:37:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 36
+
+========================================
+
+[2020-11-10 13:37:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 39
+
+========================================
+
+[2020-11-10 13:37:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 42
+
+========================================
+
+[2020-11-10 13:37:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-10 13:37:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 49
+
+========================================
+
+[2020-11-10 13:37:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 52
+
+========================================
+
+[2020-11-10 13:37:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 55
+
+========================================
+
+[2020-11-10 13:37:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 59
+
+========================================
+
+[2020-11-10 13:37:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 62
+
+========================================
+
+[2020-11-10 13:37:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 65
+
+========================================
+
+[2020-11-10 13:37:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 68
+
+========================================
+
+[2020-11-10 13:37:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 72
+
+========================================
+
+[2020-11-10 13:37:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 75
+
+========================================
+
+[2020-11-10 13:37:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 78
+
+========================================
+
+[2020-11-10 13:37:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 82
+
+========================================
+
+[2020-11-10 13:37:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:38:05
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604983070_820
+    id=2291
+
+========================================
+
+[2020-11-10 13:37:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604983070_820
+    total_price=78
+    from_id=2291
+    ok_date=2020-11-10 13:38:05
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 13:38:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=TP3
+
+========================================
+
+[2020-11-10 13:38:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=120
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D120
+
+========================================
+
+[2020-11-10 13:38:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:39:48
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 13:38:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:39:48
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 29
+
+========================================
+
+[2020-11-10 13:38:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:39:48
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-10 13:38:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:39:48
+    price=120
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-10 13:38:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 13:39:48
+    price=120
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604983127_773
+    id=2291
+
+========================================
+
+[2020-11-10 13:38:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604983127_773
+    total_price=120
+    from_id=2291
+    ok_date=2020-11-10 13:39:48
+    detail=[
+  {
+    "code": "C09-04",
+    "name": "우유크림카스테라",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 14:18:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 14:18:44
+
+========================================
+
+[2020-11-10 14:18:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 14:18:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 14:19:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 14:19:59
+
+========================================
+
+[2020-11-10 14:19:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 14:19:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 14:20:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875173
+    total_price=12200
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 14:24:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-11-10 14:24:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D78
+
+========================================
+
+[2020-11-10 14:24:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 14:26:11
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 14:25:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 14:26:11
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 29
+
+========================================
+
+[2020-11-10 14:25:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 14:26:11
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 33
+
+========================================
+
+[2020-11-10 14:25:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 14:26:11
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 36
+
+========================================
+
+[2020-11-10 14:25:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 14:26:11
+    price=78
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 39
+
+========================================
+
+[2020-11-10 14:25:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 14:26:11
+    price=78
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604985914_274
+    id=1405
+
+========================================
+
+[2020-11-10 14:25:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604985914_274
+    total_price=78
+    from_id=1405
+    ok_date=2020-11-10 14:26:11
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 15:00:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=TP3
+
+========================================
+
+[2020-11-10 15:00:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=TP3
+
+========================================
+
+[2020-11-10 15:01:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=15900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=318
+    unit=TP3
+
+========================================
+
+[2020-11-10 15:01:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=318
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D318
+
+========================================
+
+[2020-11-10 15:01:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 26
+
+========================================
+
+[2020-11-10 15:01:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 29
+
+========================================
+
+[2020-11-10 15:01:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-10 15:01:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 36
+
+========================================
+
+[2020-11-10 15:01:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 40
+
+========================================
+
+[2020-11-10 15:01:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 43
+
+========================================
+
+[2020-11-10 15:01:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 47
+
+========================================
+
+[2020-11-10 15:01:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 50
+
+========================================
+
+[2020-11-10 15:01:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-10 15:02:44
+    price=318
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604988117_804
+    id=1562
+
+========================================
+
+[2020-11-10 15:01:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604988117_804
+    total_price=318
+    from_id=1562
+    ok_date=2020-11-10 15:02:44
+    detail=[
+  {
+    "code": "C09-02",
+    "name": "티라미수케익",
+    "count": 2,
+    "price": 12000,
+    "option": ""
+  },
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 15:24:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 15:24:24
+
+========================================
+
+[2020-11-10 15:24:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 15:24:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 17:48:28] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 17:48:28
+
+========================================
+
+[2020-11-10 17:48:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 17:48:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:19:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:19:09
+
+========================================
+
+[2020-11-10 18:19:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:19:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:20:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:20:36
+
+========================================
+
+[2020-11-10 18:20:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:20:37] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:20:55] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875176
+    total_price=14000
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:23:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:23:40
+
+========================================
+
+[2020-11-10 18:23:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:23:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:23:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875178
+    total_price=25000
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:25:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:25:40
+
+========================================
+
+[2020-11-10 18:25:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:25:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:25:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:25:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:25:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:26:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875602
+    total_price=5500
+    from_id=0
+    ok_date=2020-11-10 18:26:01
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 5500,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:26:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875602
+    total_price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:27:37] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:27:37
+
+========================================
+
+[2020-11-10 18:27:37] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:27:37] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:27:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:27:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:27:43] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:27:50] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:27:50] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:27:50] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:28:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875604
+    total_price=10700
+    from_id=0
+    ok_date=2020-11-10 18:27:52
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  },
+  {
+    "code": "C01-07",
+    "name": "카라멜라떼 HOT",
+    "count": 1,
+    "price": 5800,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:28:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875604
+    total_price=10700
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:30:05] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:30:05
+
+========================================
+
+[2020-11-10 18:30:05] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:30:06] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:30:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:30:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:30:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:30:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:30:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:30:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:30:25] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875606
+    total_price=9300
+    from_id=0
+    ok_date=2020-11-10 18:30:18
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 5400,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:30:50] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875606
+    total_price=9300
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:33:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:33:47
+
+========================================
+
+[2020-11-10 18:33:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:33:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:34:05] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=106
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:34:05] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=106
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:34:05] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=106
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:34:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:34:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:34:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:34:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875608
+    total_price=10800
+    from_id=0
+    ok_date=2020-11-10 18:34:14
+    detail=[
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 5300,
+    "option": " 기본사이즈, 샷추가"
+  },
+  {
+    "code": "C01-10",
+    "name": "드립커피 HOT",
+    "count": 1,
+    "price": 5500,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:34:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875608
+    total_price=10800
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:35:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:35:36
+
+========================================
+
+[2020-11-10 18:35:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:35:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:35:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:35:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:35:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:35:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=11300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=226
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:35:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=11300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=226
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:35:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=11300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=226
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:35:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=342
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:35:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=342
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:35:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17100
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=342
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:36:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875610
+    total_price=17100
+    from_id=0
+    ok_date=2020-11-10 18:35:53
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  },
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 6400,
+    "option": " 사이즈업, 샷추가"
+  },
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 5800,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:36:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875610
+    total_price=17100
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:39:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:39:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:39:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:39:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875612
+    total_price=4800
+    from_id=0
+    ok_date=2020-11-10 18:39:28
+    detail=[
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 18:41:32] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 18:41:32
+
+========================================
+
+[2020-11-10 18:41:32] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:41:32] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 18:41:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:41:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:41:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:41:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:41:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=ETP3
+
+========================================
+
+[2020-11-10 18:41:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=EMC
+
+========================================
+
+[2020-11-10 18:41:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875613
+    total_price=9300
+    from_id=0
+    ok_date=2020-11-10 18:41:43
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  },
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 6400,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:05:25] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 19:05:25
+
+========================================
+
+[2020-11-10 19:05:26] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:05:26] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:05:32] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:05:32] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:05:32] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:05:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875614
+    total_price=4900
+    from_id=0
+    ok_date=2020-11-10 19:05:33
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:06:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875612
+    total_price=4800
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:06:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875613
+    total_price=9300
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:16:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 19:16:08
+
+========================================
+
+[2020-11-10 19:16:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:16:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:16:13] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:16:13] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:16:14] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:16:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875618
+    total_price=3900
+    from_id=0
+    ok_date=2020-11-10 19:16:15
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:16:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875614
+    total_price=4900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:21:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 19:21:47
+
+========================================
+
+[2020-11-10 19:21:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:21:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:21:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:21:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:21:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:22:02] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875620
+    total_price=3900
+    from_id=0
+    ok_date=2020-11-10 19:21:55
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:22:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:22:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:22:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:22:31] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875621
+    total_price=5500
+    from_id=0
+    ok_date=2020-11-10 19:22:24
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 5500,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:25:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:15] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=114
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:15] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=114
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:15] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=114
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:17] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:18] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=314
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:18] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=314
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:18] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=314
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:18] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=414
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:18] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=414
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:18] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=414
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=514
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=514
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=514
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=30700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=614
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=30700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=614
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=30700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=614
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=31400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=628
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=31400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=628
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=31400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=628
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=642
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=642
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32100
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=642
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=656
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=656
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=656
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=33500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=670
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=33500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=670
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=33500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=670
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=34200
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=684
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=34200
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=684
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:25:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=34200
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=684
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:25:35] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875622
+    total_price=34200
+    from_id=0
+    ok_date=2020-11-10 19:25:28
+    detail=[
+  {
+    "code": "C09-03",
+    "name": "허니브레드",
+    "count": 6,
+    "price": 30000,
+    "option": ""
+  },
+  {
+    "code": "C09-10",
+    "name": "딸기잼",
+    "count": 6,
+    "price": 4200,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:33:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=70
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:33:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=70
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:33:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=70
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:33:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:33:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2020-11-10 19:33:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=EMC
+
+========================================
+
+[2020-11-10 19:33:37] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875623
+    total_price=7000
+    from_id=0
+    ok_date=2020-11-10 19:33:30
+    detail=[
+  {
+    "code": "C11-09",
+    "name": "바질씨드드링크 (청포도)",
+    "count": 1,
+    "price": 3500,
+    "option": ""
+  },
+  {
+    "code": "C11-06",
+    "name": "마르티넬리 골드메달 스파클링 애플쥬스",
+    "count": 1,
+    "price": 3500,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 19:59:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 19:59:44
+
+========================================
+
+[2020-11-10 19:59:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 19:59:45] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:00:04] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875620
+    total_price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:01:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:01:20
+
+========================================
+
+[2020-11-10 20:01:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:01:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:01:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875622
+    total_price=34200
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:07:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:07:58
+
+========================================
+
+[2020-11-10 20:07:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:07:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:08:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875621
+    total_price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:12:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:12:34
+
+========================================
+
+[2020-11-10 20:12:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:12:35] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:12:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875618
+    total_price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:15:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:15:11
+
+========================================
+
+[2020-11-10 20:15:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:15:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:15:30] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875623
+    total_price=7000
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:18:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:18:09
+
+========================================
+
+[2020-11-10 20:18:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:18:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:18:15] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:18:15] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:18:15] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=3900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:18:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=198
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:18:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=198
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:18:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=198
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:18:33] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875633
+    total_price=9900
+    from_id=0
+    ok_date=2020-11-10 20:18:26
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C02-13",
+    "name": "카푸치노 ICE",
+    "count": 1,
+    "price": 6000,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:19:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875633
+    total_price=9900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:22:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:22:34
+
+========================================
+
+[2020-11-10 20:22:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:22:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:22:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:22:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=108
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=108
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=108
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:22:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=158
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=158
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=158
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:22:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=208
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=208
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=208
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:22:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=18300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=366
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=18300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=366
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:22:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=18300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=366
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:07] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875635
+    total_price=18300
+    from_id=0
+    ok_date=2020-11-10 20:23:00
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  },
+  {
+    "code": "C10-03",
+    "name": "딸기 마카롱",
+    "count": 3,
+    "price": 7500,
+    "option": ""
+  },
+  {
+    "code": "C06-03",
+    "name": "민트초코프라푸치노",
+    "count": 1,
+    "price": 7900,
+    "option": " 사이즈업, 휘핑추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:23:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=138
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=138
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=138
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=14300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=286
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=14300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=286
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=14300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=286
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=118
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=118
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:42] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=118
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=314
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15700
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=314
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:48] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15700
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=314
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:49] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=21600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=432
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:49] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=21600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=432
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:49] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=21600
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=432
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=24100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=482
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=24100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=482
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=24100
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=482
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=26600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=532
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=26600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=532
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=26600
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=532
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=29100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=582
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=29100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=582
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=29100
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=582
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=31600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=632
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=31600
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=632
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=31600
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=632
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:23:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=34100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=682
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=34100
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=682
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:23:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=34100
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=682
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:24:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875636
+    total_price=34100
+    from_id=0
+    ok_date=2020-11-10 20:24:01
+    detail=[
+  {
+    "code": "C08-03",
+    "name": "엠버레몬 (ICE)",
+    "count": 2,
+    "price": 11800,
+    "option": " 사이즈업"
+  },
+  {
+    "code": "C08-01",
+    "name": "엠버레몬 (HOT)",
+    "count": 2,
+    "price": 9800,
+    "option": " 기본사이즈"
+  },
+  {
+    "code": "C10-10",
+    "name": "흑임자 마카롱",
+    "count": 5,
+    "price": 12500,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:24:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875635
+    total_price=18300
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:35:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=50
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:53] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=7500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=150
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:55] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:55] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:55] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=10000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=250
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=250
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=12500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=250
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=300
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=300
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:56] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=15000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=300
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=350
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=350
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=17500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=350
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=400
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=400
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=20000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=400
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:35:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=22500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=450
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=22500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=450
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:35:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=22500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=450
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:36:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=500
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:36:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=500
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:36:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=25000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=500
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:36:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=28500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=570
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:36:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=28500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=570
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:36:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=28500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=570
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:36:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=640
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:36:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=640
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:36:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=32000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=640
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:36:22] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875638
+    total_price=32000
+    from_id=0
+    ok_date=2020-11-10 20:36:14
+    detail=[
+  {
+    "code": "C10-08",
+    "name": "황치즈 마카롱",
+    "count": 10,
+    "price": 25000,
+    "option": ""
+  },
+  {
+    "code": "C11-01",
+    "name": "페리에 탄산수 (플레인)",
+    "count": 2,
+    "price": 7000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:51:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 20:51:44
+
+========================================
+
+[2020-11-10 20:51:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:51:45] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 20:51:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:51:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:51:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:52:01] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875639
+    total_price=4900
+    from_id=0
+    ok_date=2020-11-10 20:51:53
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 20:54:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:54:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=ETP3
+
+========================================
+
+[2020-11-10 20:54:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=EMC
+
+========================================
+
+[2020-11-10 20:54:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875640
+    total_price=6400
+    from_id=0
+    ok_date=2020-11-10 20:54:12
+    detail=[
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 6400,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:00:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:00:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:00:47] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=5500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:00:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875641
+    total_price=5500
+    from_id=0
+    ok_date=2020-11-10 21:00:50
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 5500,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:03:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 21:03:00
+
+========================================
+
+[2020-11-10 21:03:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 21:03:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 21:03:04] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:03:04] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:03:05] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:03:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:03:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:03:11] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=9300
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=186
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:03:20] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875642
+    total_price=9300
+    from_id=0
+    ok_date=2020-11-10 21:03:13
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  },
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 6400,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:11:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:11:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6400
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:11:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=6400
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:11:28] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875643
+    total_price=6400
+    from_id=0
+    ok_date=2020-11-10 21:11:21
+    detail=[
+  {
+    "code": "C01-08",
+    "name": "카라멜마끼아또 HOT",
+    "count": 1,
+    "price": 6400,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:12:04] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875638
+    total_price=32000
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:19:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:19:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4800
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:19:27] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4800
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:19:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875645
+    total_price=4800
+    from_id=0
+    ok_date=2020-11-10 21:19:29
+    detail=[
+  {
+    "code": "C05-02",
+    "name": "블루레몬에이드",
+    "count": 1,
+    "price": 4800,
+    "option": " 사이즈업"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:20:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:20:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:20:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:20:21] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875646
+    total_price=4500
+    from_id=0
+    ok_date=2020-11-10 21:20:12
+    detail=[
+  {
+    "code": "C12-05",
+    "name": "캐모마일 레몬그라스 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 사이즈업"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:21:00] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CANCEL
+    approval_no=52875636
+    total_price=34100
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 21:30:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:30:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4500
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=ETP3
+
+========================================
+
+[2020-11-10 21:30:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4500
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=EMC
+
+========================================
+
+[2020-11-10 21:30:50] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875648
+    total_price=4500
+    from_id=0
+    ok_date=2020-11-10 21:30:43
+    detail=[
+  {
+    "code": "C12-05",
+    "name": "캐모마일 레몬그라스 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 사이즈업"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 22:08:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-10 22:08:12
+
+========================================
+
+[2020-11-10 22:08:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 22:08:12] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-10 22:08:51] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 22:08:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-10 22:08:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-10 22:09:01] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875649
+    total_price=2900
+    from_id=0
+    ok_date=2020-11-10 22:08:53
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-10 22:17:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 22:17:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=ETP3
+
+========================================
+
+[2020-11-10 22:17:58] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=4900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=EMC
+
+========================================
+
+[2020-11-10 22:18:08] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=52875651
+    total_price=4900
+    from_id=0
+    ok_date=2020-11-10 22:18:01
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4900,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

@@ -1,0 +1,1654 @@
+[2020-09-23 08:51:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 08:51:54] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-09-23 10:52:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=TP3
+
+========================================
+
+[2020-09-23 10:52:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30002035
+    total_price=4800
+    from_id=0
+    ok_date=2020-09-23 10:52:17
+    detail=[
+  {
+    "code": "C01-07",
+    "name": "카라멜라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 11:05:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=60
+    unit=TP3
+
+========================================
+
+[2020-09-23 11:05:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=TP3
+
+========================================
+
+[2020-09-23 11:06:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=220
+    unit=TP3
+
+========================================
+
+[2020-09-23 11:06:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 11:06:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=220
+    unit=TP3
+
+========================================
+
+[2020-09-23 11:06:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=76845083
+    total_price=11000
+    from_id=0
+    ok_date=2020-09-23 11:06:50
+    detail=[
+  {
+    "code": "C09-03",
+    "name": "허니브레드",
+    "count": 1,
+    "price": 5000,
+    "option": ""
+  },
+  {
+    "code": "C09-01",
+    "name": "에멘탈 치즈케익",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 11:47:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=TP3
+
+========================================
+
+[2020-09-23 11:48:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=71084500
+    total_price=2000
+    from_id=0
+    ok_date=2020-09-23 11:48:12
+    detail=[
+  {
+    "code": "C11-08",
+    "name": "해양심층수 6배수",
+    "count": 1,
+    "price": 2000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 11:48:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=71084500
+    total_price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:20:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:40:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:40:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=32917463
+    total_price=5000
+    from_id=0
+    ok_date=2020-09-23 12:40:50
+    detail=[
+  {
+    "code": "C03-04",
+    "name": "자색고구마라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:42:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:42:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30016539
+    total_price=5000
+    from_id=0
+    ok_date=2020-09-23 12:42:29
+    detail=[
+  {
+    "code": "C03-04",
+    "name": "자색고구마라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:42:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:42:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:43:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41524050
+    total_price=10000
+    from_id=0
+    ok_date=2020-09-23 12:43:14
+    detail=[
+  {
+    "code": "C03-04",
+    "name": "자색고구마라떼 HOT",
+    "count": 2,
+    "price": 10000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:47:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=60
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:47:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:47:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=180
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:47:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=12000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=240
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:47:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=240
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=240
+
+========================================
+
+[2020-09-23 12:47:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30016540
+    total_price=12000
+    from_id=0
+    ok_date=2020-09-23 12:47:44
+    detail=[
+  {
+    "code": "C09-06",
+    "name": "블루베리베이글",
+    "count": 4,
+    "price": 12000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:48:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:48:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=194
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:49:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=14000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=280
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:49:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=20500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=410
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:50:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=40855904
+    total_price=20500
+    from_id=0
+    ok_date=2020-09-23 12:50:14
+    detail=[
+  {
+    "code": "C02-01",
+    "name": "아메리카노 ICE",
+    "count": 1,
+    "price": 4400,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C02-04",
+    "name": "헤이즐넛라떼 ICE",
+    "count": 1,
+    "price": 5300,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C05-07",
+    "name": "블루베리에이드",
+    "count": 1,
+    "price": 4300,
+    "option": " 기본사이즈"
+  },
+  {
+    "code": "C03-08",
+    "name": "생과일자몽주스 HOT",
+    "count": 1,
+    "price": 6500,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:51:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:52:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=166
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:52:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=40878788
+    total_price=8300
+    from_id=0
+    ok_date=2020-09-23 12:52:26
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 4400,
+    "option": " 사이즈업, 선택안함"
+  },
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:53:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:53:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=80
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:53:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=72215319
+    total_price=4000
+    from_id=0
+    ok_date=2020-09-23 12:53:43
+    detail=[
+  {
+    "code": "C11-08",
+    "name": "해양심층수 6배수",
+    "count": 2,
+    "price": 4000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 12:55:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:55:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=200
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:56:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=320
+    unit=TP3
+
+========================================
+
+[2020-09-23 12:56:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=40035669
+    total_price=16000
+    from_id=0
+    ok_date=2020-09-23 12:56:46
+    detail=[
+  {
+    "code": "C03-04",
+    "name": "자색고구마라떼 HOT",
+    "count": 2,
+    "price": 10000,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C09-04",
+    "name": "우유크림카스테라",
+    "count": 1,
+    "price": 6000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:00:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:00:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=00043933
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-23 13:00:37
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:01:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:02:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=04695325
+    total_price=4500
+    from_id=0
+    ok_date=2020-09-23 13:02:09
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:02:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:03:08] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=40989560
+    total_price=3900
+    from_id=0
+    ok_date=2020-09-23 13:03:14
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:03:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4800
+[RET] ---------------
+    code=00
+    msg=ok
+    price=96
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:04:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=40129163
+    total_price=4800
+    from_id=0
+    ok_date=2020-09-23 13:04:23
+    detail=[
+  {
+    "code": "C01-04",
+    "name": "바닐라라떼 HOT",
+    "count": 1,
+    "price": 4800,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:06:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:07:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41028609
+    total_price=5000
+    from_id=0
+    ok_date=2020-09-23 13:07:14
+    detail=[
+  {
+    "code": "C03-06",
+    "name": "밀크티 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:07:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:07:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41035670
+    total_price=5000
+    from_id=0
+    ok_date=2020-09-23 13:07:55
+    detail=[
+  {
+    "code": "C03-05",
+    "name": "오곡라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:08:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:09:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=00632825
+    total_price=5000
+    from_id=0
+    ok_date=2020-09-23 13:09:05
+    detail=[
+  {
+    "code": "C03-05",
+    "name": "오곡라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:09:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=120
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:10:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=00414739
+    total_price=6000
+    from_id=0
+    ok_date=2020-09-23 13:10:12
+    detail=[
+  {
+    "code": "C04-06",
+    "name": "밀크티 ICE",
+    "count": 1,
+    "price": 6000,
+    "option": " 사이즈업, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:10:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=86
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:11:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41065759
+    total_price=4300
+    from_id=0
+    ok_date=2020-09-23 13:11:08
+    detail=[
+  {
+    "code": "C05-04",
+    "name": "망고에이드",
+    "count": 1,
+    "price": 4300,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:58:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:58:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30019952
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-23 13:58:42
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:58:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:58:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30019963
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-23 13:59:00
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:59:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:59:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30019974
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-23 13:59:15
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:59:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-23 13:59:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30019985
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-23 13:59:29
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:59:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=30019985
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:59:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=30019974
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 13:59:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=30019963
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:00:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=30019952
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:00:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:01:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=40819339
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-23 14:01:08
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:01:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=40819339
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:21:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=98
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:21:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9800
+[RET] ---------------
+    code=00
+    msg=ok
+    price=196
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:21:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=00661919
+    total_price=9800
+    from_id=0
+    ok_date=2020-09-23 14:21:55
+    detail=[
+  {
+    "code": "C08-01",
+    "name": "엠버레몬 (HOT)",
+    "count": 2,
+    "price": 9800,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:26:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:27:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=30038534
+    total_price=5500
+    from_id=0
+    ok_date=2020-09-23 14:27:02
+    detail=[
+  {
+    "code": "C04-05",
+    "name": "오곡라떼 ICE",
+    "count": 1,
+    "price": 5500,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:48:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:48:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=66168088
+    total_price=3900
+    from_id=0
+    ok_date=2020-09-23 14:48:53
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:52:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:53:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=178
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:53:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41977073
+    total_price=8900
+    from_id=0
+    ok_date=2020-09-23 14:54:05
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C09-03",
+    "name": "허니브레드",
+    "count": 1,
+    "price": 5000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:55:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=3900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=78
+    unit=TP3
+
+========================================
+
+[2020-09-23 14:56:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41995902
+    total_price=3900
+    from_id=0
+    ok_date=2020-09-23 14:56:06
+    detail=[
+  {
+    "code": "C01-02",
+    "name": "아메리카노 HOT",
+    "count": 1,
+    "price": 3900,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 14:59:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=TP3
+
+========================================
+
+[2020-09-23 15:00:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=41513734
+    total_price=4400
+    from_id=0
+    ok_date=2020-09-23 15:00:07
+    detail=[
+  {
+    "code": "C02-01",
+    "name": "아메리카노 ICE",
+    "count": 1,
+    "price": 4400,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 15:41:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-23 15:41:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=42413360
+    total_price=5000
+    from_id=0
+    ok_date=2020-09-23 15:41:49
+    detail=[
+  {
+    "code": "C03-02",
+    "name": "그린티라떼 HOT",
+    "count": 1,
+    "price": 5000,
+    "option": " 기본사이즈, 선택안함"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-23 16:13:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=TP3
+
+========================================
+
+[2020-09-23 16:13:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=214
+    unit=TP3
+
+========================================
+
+[2020-09-23 16:14:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=42712816
+    total_price=10700
+    from_id=0
+    ok_date=2020-09-23 16:14:07
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 1,
+    "price": 4500,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C07-01",
+    "name": "플레인요거트스무디",
+    "count": 1,
+    "price": 6200,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

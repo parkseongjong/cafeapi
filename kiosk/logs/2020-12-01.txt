@@ -1,0 +1,239 @@
+[2020-12-01 09:57:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-12-01 09:57:59
+
+========================================
+
+[2020-12-01 09:57:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-12-01 09:57:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-12-01 16:15:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2020-12-01 16:15:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=140
+    unit=ETP3
+
+========================================
+
+[2020-12-01 16:15:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=7000
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=116
+    unit=EMC
+
+========================================
+
+[2020-12-01 16:16:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D116%7Cemc
+
+========================================
+
+[2020-12-01 16:16:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 3
+
+========================================
+
+[2020-12-01 16:16:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 7
+
+========================================
+
+[2020-12-01 16:16:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 10
+
+========================================
+
+[2020-12-01 16:16:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 13
+
+========================================
+
+[2020-12-01 16:16:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 17
+
+========================================
+
+[2020-12-01 16:16:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 20
+
+========================================
+
+[2020-12-01 16:16:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-12-01 16:16:45
+    price=116
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1606806988_344
+    id=1382
+
+========================================
+
+[2020-12-01 16:16:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=EMC
+    approval_no=1606806988_344
+    total_price=116
+    from_id=1382
+    ok_date=2020-12-01 16:16:45
+    detail=[
+  {
+    "code": "C04-10",
+    "name": "생과일오렌지주스 ICE",
+    "count": 1,
+    "price": 7000,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

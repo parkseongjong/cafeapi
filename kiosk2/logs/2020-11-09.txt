@@ -1,0 +1,2240 @@
+[2020-11-09 10:12:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-09 10:12:11] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 13:03:55] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 13:03:55
+
+========================================
+
+[2020-11-09 13:16:30] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 13:16:30
+
+========================================
+
+[2020-11-09 13:19:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 13:19:59
+
+========================================
+
+[2020-11-09 13:34:07] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 13:34:07
+
+========================================
+
+[2020-11-09 13:34:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 13:34:57
+
+========================================
+
+[2020-11-09 13:34:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 13:34:57] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 13:57:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 13:57:24
+
+========================================
+
+[2020-11-09 13:57:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 13:57:24] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:07:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 15:07:09
+
+========================================
+
+[2020-11-09 15:07:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:07:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:07:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 15:07:46
+
+========================================
+
+[2020-11-09 15:07:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:07:46] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:08:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 15:08:36
+
+========================================
+
+[2020-11-09 15:08:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:08:37] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:18:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 15:18:19
+
+========================================
+
+[2020-11-09 15:18:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:18:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 15:40:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:40:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=9000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=180
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:41:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=320
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:41:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=320
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D320
+
+========================================
+
+[2020-11-09 15:41:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-09 15:41:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-09 15:41:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-09 15:41:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-09 15:41:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-09 15:41:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 44
+
+========================================
+
+[2020-11-09 15:41:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 48
+
+========================================
+
+[2020-11-09 15:41:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 51
+
+========================================
+
+[2020-11-09 15:41:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 54
+
+========================================
+
+[2020-11-09 15:41:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 57
+
+========================================
+
+[2020-11-09 15:41:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 61
+
+========================================
+
+[2020-11-09 15:41:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 64
+
+========================================
+
+[2020-11-09 15:41:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 67
+
+========================================
+
+[2020-11-09 15:41:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 71
+
+========================================
+
+[2020-11-09 15:41:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 74
+
+========================================
+
+[2020-11-09 15:41:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 77
+
+========================================
+
+[2020-11-09 15:41:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 80
+
+========================================
+
+[2020-11-09 15:42:03] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 84
+
+========================================
+
+[2020-11-09 15:42:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 87
+
+========================================
+
+[2020-11-09 15:42:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 90
+
+========================================
+
+[2020-11-09 15:42:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 94
+
+========================================
+
+[2020-11-09 15:42:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 97
+
+========================================
+
+[2020-11-09 15:42:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 100
+
+========================================
+
+[2020-11-09 15:42:22] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:42:19
+    price=320
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 103
+
+========================================
+
+[2020-11-09 15:42:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:42:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=40
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D40
+
+========================================
+
+[2020-11-09 15:42:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:43:50
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-09 15:42:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:43:50
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-09 15:42:45] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:43:50
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-09 15:42:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:43:50
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-09 15:42:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:43:50
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-09 15:43:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:43:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=230
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:43:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=320
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:44:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=73280218
+    total_price=16000
+    from_id=0
+    ok_date=2020-11-09 15:46:05
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼 HOT",
+    "count": 2,
+    "price": 9000,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C04-10",
+    "name": "생과일오렌지주스 ICE",
+    "count": 1,
+    "price": 7000,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-09 15:45:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=TP3
+
+========================================
+
+[2020-11-09 15:45:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=40
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D40
+
+========================================
+
+[2020-11-09 15:45:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:46:46
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-09 15:45:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:46:46
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 32
+
+========================================
+
+[2020-11-09 15:45:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:46:46
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 35
+
+========================================
+
+[2020-11-09 15:45:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:46:46
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 38
+
+========================================
+
+[2020-11-09 15:45:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:46:46
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 41
+
+========================================
+
+[2020-11-09 15:45:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 15:46:46
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 45
+
+========================================
+
+[2020-11-09 16:12:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 16:12:40
+
+========================================
+
+[2020-11-09 16:12:40] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 16:12:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 18:22:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=86
+    unit=TP3
+
+========================================
+
+[2020-11-09 18:22:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=86
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D86
+
+========================================
+
+[2020-11-09 18:22:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 18:23:50
+    price=86
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-09 18:22:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 18:23:50
+    price=86
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 31
+
+========================================
+
+[2020-11-09 18:22:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 18:23:50
+    price=86
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 34
+
+========================================
+
+[2020-11-09 18:22:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 18:23:50
+    price=86
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604913768_747
+    id=1382
+
+========================================
+
+[2020-11-09 18:22:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604913768_747
+    total_price=86
+    from_id=1382
+    ok_date=2020-11-09 18:23:50
+    detail=[
+  {
+    "code": "C05-03",
+    "name": "자몽에이드",
+    "count": 1,
+    "price": 4300,
+    "option": " 기본사이즈"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-09 18:25:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=40
+    unit=TP3
+
+========================================
+
+[2020-11-09 18:25:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=40
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787%3Famount%3D40
+
+========================================
+
+[2020-11-09 18:25:20] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 18:26:32
+    price=40
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 28
+
+========================================
+
+[2020-11-09 18:25:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-11-09 18:26:32
+    price=40
+[RET] ---------------
+    code=00
+    msg=ok
+    approval_no=1604913924_762
+    id=4935
+
+========================================
+
+[2020-11-09 18:25:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=TP3
+    approval_no=1604913924_762
+    total_price=40
+    from_id=4935
+    ok_date=2020-11-09 18:26:32
+    detail=[
+  {
+    "code": "C11-08",
+    "name": "해양심층수 6배수",
+    "count": 1,
+    "price": 2000,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-09 18:25:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=1604913924_762
+    total_price=40
+[RET] ---------------
+    code=66
+    msg=로그 정보를 찾을수 없습니다.
+
+========================================
+
+[2020-11-09 18:25:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=1604913924_762
+    total_price=40
+[RET] ---------------
+    code=66
+    msg=로그 정보를 찾을수 없습니다.
+
+========================================
+
+[2020-11-09 19:10:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 19:10:54
+
+========================================
+
+[2020-11-09 19:10:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:10:54] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:10:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-09 19:10:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-09 19:10:59] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-09 19:11:06] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=qrcode
+    price=58
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x4Ab0257b92C50ba19A27944b66Fa991fc050b3c4%3Famount%3D58%7Cemc
+
+========================================
+
+[2020-11-09 19:11:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 73
+
+========================================
+
+[2020-11-09 19:11:13] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 76
+
+========================================
+
+[2020-11-09 19:11:16] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 79
+
+========================================
+
+[2020-11-09 19:11:19] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 82
+
+========================================
+
+[2020-11-09 19:11:23] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 86
+
+========================================
+
+[2020-11-09 19:11:26] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 89
+
+========================================
+
+[2020-11-09 19:11:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 92
+
+========================================
+
+[2020-11-09 19:11:33] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 95
+
+========================================
+
+[2020-11-09 19:11:36] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 99
+
+========================================
+
+[2020-11-09 19:11:39] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=check
+    req_time=2020-11-09 19:11:07
+    price=58
+    unit=ETP3
+[RET] ---------------
+    code=11
+    msg=처리중입니다. 102
+
+========================================
+
+[2020-11-09 19:26:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 19:26:52
+
+========================================
+
+[2020-11-09 19:26:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:26:52] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:30:30] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 19:30:30
+
+========================================
+
+[2020-11-09 19:30:30] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:30:30] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:32:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 19:32:09
+
+========================================
+
+[2020-11-09 19:32:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:32:09] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:34:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 19:34:41
+
+========================================
+
+[2020-11-09 19:34:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:34:41] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:37:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 19:37:38
+
+========================================
+
+[2020-11-09 19:37:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 19:37:38] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 22:55:28] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-09 22:55:28] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-09 22:55:28] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-09 22:57:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 22:57:29
+
+========================================
+
+[2020-11-09 22:57:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 22:57:29] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 22:57:33] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-09 22:57:33] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=ETP3
+
+========================================
+
+[2020-11-09 22:57:34] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=exchange
+    price=2900
+    target_unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=EMC
+
+========================================
+
+[2020-11-09 22:57:44] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment
+    pay_type=CARD
+    approval_no=42875135
+    total_price=2900
+    from_id=0
+    ok_date=2020-11-09 22:57:37
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소 HOT",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-11-09 23:23:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 23:23:10
+
+========================================
+
+[2020-11-09 23:23:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 23:23:10] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 23:29:02] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+    server_time=2020-11-09 23:29:02
+
+========================================
+
+[2020-11-09 23:29:02] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 달디단 단호박라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_1.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 찬바람불때 달달한 밤라떼
+            [img_url] => https://cybertronchain.com/kiosk/adv/autumn_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-11-09 23:29:02] : 61.96.70.219
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=payment_unit
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [unit] => ETP3
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_etp3.png
+        )
+
+    [1] => Array
+        (
+            [unit] => EMC
+            [btn_logo] => https://cybertronchain.com/kiosk/logo_img/logo_emc.png
+        )
+
+)
+
+
+========================================
+

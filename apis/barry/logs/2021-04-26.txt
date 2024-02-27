@@ -1,0 +1,15 @@
+[2021-04-26 16:23:48] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=cancel
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    payment_no=86690
+    coin_type=E-TP3
+[RET] ---------------
+    code=44
+    msg=이미 취소처리되었습니다.
+
+========================================
+

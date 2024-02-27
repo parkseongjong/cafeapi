@@ -1,0 +1,15 @@
+[2021-10-12 18:21:30] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=16
+    unit=ETP3
+
+========================================
+

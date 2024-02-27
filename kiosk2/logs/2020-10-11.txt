@@ -1,0 +1,202 @@
+[2020-10-11 09:56:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-10-11 09:56:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-10-11 13:38:27] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=TP3
+
+========================================
+
+[2020-10-11 13:38:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=138
+    unit=TP3
+
+========================================
+
+[2020-10-11 13:39:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=22431697
+    total_price=6900
+    from_id=0
+    ok_date=2020-10-11 13:39:46
+    detail=[
+  {
+    "code": "C02-01",
+    "name": "아메리카노 ICE",
+    "count": 1,
+    "price": 4400,
+    "option": " 기본사이즈, 선택안함"
+  },
+  {
+    "code": "C09-05",
+    "name": "플레인베이글",
+    "count": 1,
+    "price": 2500,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-10-11 15:00:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=90
+    unit=TP3
+
+========================================
+
+[2020-10-11 15:00:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=178
+    unit=TP3
+
+========================================
+
+[2020-10-11 15:00:18] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=88
+    unit=TP3
+
+========================================
+
+[2020-10-11 15:00:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=8800
+[RET] ---------------
+    code=00
+    msg=ok
+    price=176
+    unit=TP3
+
+========================================
+
+[2020-10-11 15:01:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=13100
+[RET] ---------------
+    code=00
+    msg=ok
+    price=262
+    unit=TP3
+
+========================================
+
+[2020-10-11 15:03:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-10-11 15:03:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+

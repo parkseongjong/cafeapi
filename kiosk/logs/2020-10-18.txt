@@ -1,0 +1,66 @@
+[2020-10-18 09:58:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-10-18 09:58:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-10-18 14:50:53] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=4300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=86
+    unit=TP3
+
+========================================
+
+[2020-10-18 14:51:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11200
+[RET] ---------------
+    code=00
+    msg=ok
+    price=224
+    unit=TP3
+
+========================================
+

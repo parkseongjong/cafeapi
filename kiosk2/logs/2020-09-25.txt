@@ -1,0 +1,270 @@
+[2020-09-25 08:36:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-25 08:36:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [name] => 여름을 상큼하게 믹스하다.
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+    [1] => Array
+        (
+            [name] => 2020 여름
+            [img_url] => https://cybertronchain.com/kiosk/adv/summer_2020_2.png
+            [kind] => IMG
+            [time] => 5
+        )
+
+)
+
+
+========================================
+
+[2020-09-25 18:50:55] : 211.117.42.16
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=goods
+    category=C01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-01
+            [name] => 에스프레소 HOT
+            [price] => 2900
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/espresso.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-02
+            [name] => 아메리카노 HOT
+            [price] => 3900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/americano-hot.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-03
+            [name] => 카페라떼 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/latte-hot.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-04
+            [name] => 바닐라라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/vanilla-latte-hot.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-05
+            [name] => 헤이즐넛라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/hazelnut-hot.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-06
+            [name] => 연유라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milk-latte-hot.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-07
+            [name] => 카라멜라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/caramelatte-hot.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-08
+            [name] => 카라멜마끼아또 HOT
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macchiato-hot.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-09
+            [name] => 카페모카 HOT
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mocha-hot.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-10
+            [name] => 드립커피 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/drip-coffee-hot.png
+        )
+
+)
+
+
+========================================
+
+[2020-09-25 18:50:58] : 211.117.42.16
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_01
+    kind=goods
+    category=C01
+[RET] ---------------
+    code=00
+    msg=ok
+    items=Array
+(
+    [0] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-01
+            [name] => 에스프레소 HOT
+            [price] => 2900
+            [opt_yn] => N
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/espresso.png
+        )
+
+    [1] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-02
+            [name] => 아메리카노 HOT
+            [price] => 3900
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/americano-hot.png
+        )
+
+    [2] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-03
+            [name] => 카페라떼 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/latte-hot.png
+        )
+
+    [3] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-04
+            [name] => 바닐라라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/vanilla-latte-hot.png
+        )
+
+    [4] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-05
+            [name] => 헤이즐넛라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/hazelnut-hot.png
+        )
+
+    [5] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-06
+            [name] => 연유라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/milk-latte-hot.png
+        )
+
+    [6] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-07
+            [name] => 카라멜라떼 HOT
+            [price] => 4800
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/caramelatte-hot.png
+        )
+
+    [7] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-08
+            [name] => 카라멜마끼아또 HOT
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/macchiato-hot.png
+        )
+
+    [8] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-09
+            [name] => 카페모카 HOT
+            [price] => 5400
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/mocha-hot.png
+        )
+
+    [9] => Array
+        (
+            [cate_code] => C01
+            [code] => C01-10
+            [name] => 드립커피 HOT
+            [price] => 4500
+            [opt_yn] => Y
+            [img_url] => https://cybertronchain.com/kiosk/prod_img/drip-coffee-hot.png
+        )
+
+)
+
+
+========================================
+

@@ -1,0 +1,1810 @@
+[2020-09-16 09:55:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 09:55:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 18:12:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=6400
+[RET] ---------------
+    code=00
+    msg=ok
+    price=128
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:12:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=128
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=128
+
+========================================
+
+[2020-09-16 18:13:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:37:20
+    price=128
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:13:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=128
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=128
+
+========================================
+
+[2020-09-16 18:13:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:37:26
+    price=128
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:13:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=10800
+[RET] ---------------
+    code=00
+    msg=ok
+    price=216
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:13:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=216
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=216
+
+========================================
+
+[2020-09-16 18:13:21] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:37:37
+    price=216
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:13:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:14:00] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:14:04] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:38:20
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:14:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:14:13] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:38:29
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:14:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:14:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:38:46
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:14:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:14:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:38:59
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:14:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:14:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:39:05
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5745
+
+========================================
+
+[2020-09-16 18:15:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:15:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:40:08
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:15:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:40:18
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:16:07] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:10] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:40:26
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:16:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:40:33
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:16:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:40:45
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:16:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:40:53
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:16:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:41:00
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:16:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 18:16:50] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:41:06
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:17:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 18:17:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 18:17:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:17:17] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=110
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=110
+
+========================================
+
+[2020-09-16 18:17:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:41:39
+    price=110
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:17:51] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=23048443
+    total_price=5500
+    from_id=0
+    ok_date=2020-09-16 16:41:50
+    detail=[
+  {
+    "code": "C01-03",
+    "name": "카페라떼",
+    "count": 1,
+    "price": 5500,
+    "option": " 사이즈업, 샷추가"
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 18:18:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=23048443
+    total_price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 18:18:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=106
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:18:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=106
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=106
+
+========================================
+
+[2020-09-16 18:18:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:42:59
+    price=106
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:18:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=106
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=106
+
+========================================
+
+[2020-09-16 18:18:56] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:43:12
+    price=106
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5744
+
+========================================
+
+[2020-09-16 18:18:59] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:19:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=110
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=110
+
+========================================
+
+[2020-09-16 18:19:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:43:20
+    price=110
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5745
+
+========================================
+
+[2020-09-16 18:20:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 18:20:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 18:20:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:20:48] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=110
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=110
+
+========================================
+
+[2020-09-16 18:20:52] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:45:07
+    price=110
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5745
+
+========================================
+
+[2020-09-16 18:20:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=0
+[RET] ---------------
+    code=77
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2020-09-16 18:21:19] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:21:47] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5800
+[RET] ---------------
+    code=00
+    msg=ok
+    price=116
+    unit=TP3
+
+========================================
+
+[2020-09-16 18:22:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=116
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=116
+
+========================================
+
+[2020-09-16 18:22:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:46:31
+    price=116
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5745
+
+========================================
+
+[2020-09-16 18:24:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=116
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=116
+
+========================================
+
+[2020-09-16 18:24:15] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 16:48:29
+    price=116
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5746
+
+========================================
+
+[2020-09-16 19:15:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:15:24] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:15:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:15:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=58
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=58
+
+========================================
+
+[2020-09-16 19:17:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:17:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:17:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:18:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:18:02] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:18:14] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:21:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:21:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:22:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:26:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:26:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:26:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+    price=58
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:26:49] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CARD
+    approval_no=77374670
+    total_price=2900
+    from_id=0
+    ok_date=2020-09-16 17:51:01
+    detail=[
+  {
+    "code": "C01-01",
+    "name": "에스프레소",
+    "count": 1,
+    "price": 2900,
+    "option": ""
+  }
+]
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:29:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:29:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:31:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5500
+[RET] ---------------
+    code=00
+    msg=ok
+    price=110
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:31:46] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=110
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=110
+
+========================================
+
+[2020-09-16 19:33:26] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=77330646
+    total_price=2900
+[RET] ---------------
+    code=66
+    msg=결제 정보가 없습니다.
+
+========================================
+
+[2020-09-16 19:33:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=payment
+    pay_type=CANCEL
+    approval_no=77374670
+    total_price=2900
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:35:05] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 17:56:05
+    price=110
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5940
+
+========================================
+
+[2020-09-16 19:38:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 19:38:58] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+
+[2020-09-16 19:39:06] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=106
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:09] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=11700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=234
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:16] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=16700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=334
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:23] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=21700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=434
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:28] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=27700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=554
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=33700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=674
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=39700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=794
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:29] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=45700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=914
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=51700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1034
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=57700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1154
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:30] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=63700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1274
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=69700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1394
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=75700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1514
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:31] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=81700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1634
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=87700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1754
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=93700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1874
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=99700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=1994
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=105700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2114
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=111700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2234
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=117700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2354
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=123700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2474
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:33] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=129700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2594
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=135700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2714
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=141700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2834
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=147700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=2954
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:34] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=153700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3074
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=159700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3194
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=165700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3314
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:35] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=171700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3434
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=177700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3554
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=183700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3674
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:36] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=189700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3794
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:37] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=195700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=3914
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=201700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4034
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=207700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4154
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=213700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4274
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:38] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=219700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4394
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=225700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4514
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=231700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4634
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=237700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4754
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=243700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4874
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:41] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=249700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=4994
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=255700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=5114
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=261700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=5234
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:42] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=267700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=5354
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:43] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=273700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=5474
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=279700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=5594
+    unit=TP3
+
+========================================
+
+[2020-09-16 19:39:44] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=285700
+[RET] ---------------
+    code=00
+    msg=ok
+    price=5714
+    unit=TP3
+
+========================================
+
+[2020-09-16 21:32:39] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5000
+[RET] ---------------
+    code=00
+    msg=ok
+    price=100
+    unit=TP3
+
+========================================
+
+[2020-09-16 21:32:40] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 21:35:57] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=check
+    req_time=2020-09-16 19:56:59
+    price=100
+[RET] ---------------
+    code=22
+    msg=취소되었습니다. 5938
+
+========================================
+
+[2020-09-16 21:36:01] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=100
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=100
+
+========================================
+
+[2020-09-16 21:37:25] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=5300
+[RET] ---------------
+    code=00
+    msg=ok
+    price=106
+    unit=TP3
+
+========================================
+
+[2020-09-16 21:37:32] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=qrcode
+    price=106
+[RET] ---------------
+    code=00
+    msg=ok
+    img_url=https://chart.googleapis.com/chart?cht=qr&chs=400x400&chl=0x6155580a91Fc0DF22B67a9e68Db2D374C5799787?amount=106
+
+========================================
+
+[2020-09-16 21:38:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=init
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-09-16 21:38:12] : 221.151.203.146
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=intro
+[RET] ---------------
+    code=00
+    msg=ok
+    items=1
+
+========================================
+

@@ -1,0 +1,953 @@
+[2020-12-31 07:21:13] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1927
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 07:21:14] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1927
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 07:21:15] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=2219
+    seller_address=0x42c64a5bbD47d515bf37521459C8cA54aCBFfBF7
+    buyer_user_id=1927
+    amount=6000
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 08:29:14] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=2484
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 08:29:15] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=2484
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 08:29:15] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=2287
+    seller_address=0x44BCEc359313Ee7e4213334a97D8Ffb679bDf48d
+    buyer_user_id=2484
+    amount=460
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 10:22:07] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=12122
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 10:22:07] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=12122
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 10:22:08] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=11863
+    seller_address=0x3d0B1b311b053CD062C6c698954BB53Dd7B21F15
+    buyer_user_id=12122
+    amount=100
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 10:39:46] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=12122
+[RET] ---------------
+    code=77
+    msg=잘못된 사용자입니다.
+
+========================================
+
+[2020-12-31 10:55:46] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=12122
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 10:55:47] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=12122
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 10:55:47] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=11863
+    seller_address=0x3d0B1b311b053CD062C6c698954BB53Dd7B21F15
+    buyer_user_id=12122
+    amount=120
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 11:03:11] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=12122
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 11:03:12] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=12122
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 11:03:13] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=11863
+    seller_address=0x3d0B1b311b053CD062C6c698954BB53Dd7B21F15
+    buyer_user_id=12122
+    amount=100
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 11:05:02] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1461
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 11:05:03] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1461
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 11:05:03] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=1507
+    seller_address=0x2d5558EBA2b2cdddb640C5c9b0C05219B1408232
+    buyer_user_id=1461
+    amount=4900
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:13:08] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=11794
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:13:09] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=11794
+    user_pw=
+[RET] ---------------
+    code=66
+    msg=전송비밀번호를 셋팅하지 않은 사용자입니다.
+
+========================================
+
+[2020-12-31 14:13:26] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=11794
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:15:03] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=11794
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:15:04] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=11794
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:15:04] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=1501
+    seller_address=0x036DE449Dcd40cADb2D56463EF00a74cacecdEf0
+    buyer_user_id=11794
+    amount=13000
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:16:09] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=11111
+    coint_Type=etp3
+[RET] ---------------
+    code=99
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2020-12-31 14:16:38] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=11111
+    coint_Type=E-TP3
+[RET] ---------------
+    code=99
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2020-12-31 14:16:56] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=11111
+    coint_Type=E-TP3
+[RET] ---------------
+    code=99
+    msg=필수값4이 누락되었습니다.
+
+========================================
+
+[2020-12-31 14:18:22] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=11111
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price1=epay
+    price2=100
+
+========================================
+
+[2020-12-31 14:20:54] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=111
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price2=5500
+
+========================================
+
+[2020-12-31 14:22:08] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1507
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:22:09] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1507
+    user_pw=
+[RET] ---------------
+    code=77
+    msg=잘못된 사용자입니다.
+
+========================================
+
+[2020-12-31 14:22:36] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=123
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price2=5500
+
+========================================
+
+[2020-12-31 14:23:13] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=123
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price1=110.00000000
+    price2=5500
+
+========================================
+
+[2020-12-31 14:23:15] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1507
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:23:16] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1507
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:23:16] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=1564
+    seller_address=0x0735d1aA8688b89B2B6667E73F4d7398731CFB1b
+    buyer_user_id=1507
+    amount=0
+    unit=ETP3
+[RET] ---------------
+    code=99
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2020-12-31 14:23:38] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=000
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=123
+    coin_type=E-TP3
+[RET] ---------------
+    code=77
+    msg=잘못된 사용자입니다.
+
+========================================
+
+[2020-12-31 14:23:39] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1507
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:23:45] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=000
+    amount=200
+    unit=ETP3
+    payment_no=123
+    coin_type=E-TP3
+[RET] ---------------
+    code=77
+    msg=잘못된 사용자입니다.
+
+========================================
+
+[2020-12-31 14:23:54] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1507
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:24:11] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=123
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price1=123
+    price2=5500
+
+========================================
+
+[2020-12-31 14:24:37] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=1507
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:24:38] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=1507
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:24:38] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=2518
+    seller_address=0x190e05F17c68f9f433da449c7F4465b702b510E1
+    buyer_user_id=1507
+    amount=0
+    unit=ETP3
+[RET] ---------------
+    code=99
+    msg=필수값이 누락되었습니다.
+
+========================================
+
+[2020-12-31 14:25:33] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price1=47379
+    price2=5050
+
+========================================
+
+[2020-12-31 14:27:52] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+    price1=1010
+    price2=5050
+
+========================================
+
+[2020-12-31 14:37:54] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:38:53] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:45:16] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:50:38] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=2049
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:50:38] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=2049
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 14:50:39] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=3887
+    seller_address=0x3a8bBEdce06Dc8740D413571A7f1FB355895A67b
+    buyer_user_id=2049
+    amount=2000
+    unit=ETP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 15:29:57] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 15:35:09] : 211.44.188.4
+[REQ] ---------------
+    ckey=
+    kind=finish
+    user_id=7080
+    user_pw=
+    seller_user_id=5137
+    seller_address=0x3635afad1858419e5b758297163CdCdc8BAb0637
+    buyer_user_id=5137
+    amount=200
+    unit=ETP3
+    payment_no=47379
+    coin_type=E-TP3
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 16:04:22] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=93
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 16:04:22] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=93
+    user_pw=
+[RET] ---------------
+    code=77
+    msg=잘못된 사용자입니다.
+
+========================================
+
+[2020-12-31 16:04:32] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=93
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 16:04:33] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=93
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 16:04:33] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=93
+    seller_address=0xc7bd0c401c4991914b2052de6d5a8b445c924b2d
+    buyer_user_id=93
+    amount=3
+    unit=EMC
+[RET] ---------------
+    code=33
+    msg=전송에 실패하였습니다.(최소전송금액)
+
+========================================
+
+[2020-12-31 20:38:30] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=3160
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 20:38:31] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=3160
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 20:38:31] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=2186
+    seller_address=0x49B92DEbd8DFDe0761C34F9422da2FEA6Cea6f33
+    buyer_user_id=3160
+    amount=280
+    unit=EMC
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 21:09:52] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=2277
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 21:09:53] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=passwd
+    user_id=2277
+    user_pw=
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+
+[2020-12-31 21:09:53] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=payment
+    seller_user_id=3582
+    seller_address=0x0eF86580DF628EfEeaF666498Ad2bE1Ef3F2de37
+    buyer_user_id=2277
+    amount=570
+    unit=ETP3
+[RET] ---------------
+    code=55
+    msg=잔액이 부족합니다.
+
+========================================
+
+[2020-12-31 21:48:13] : 203.245.24.33
+[REQ] ---------------
+    ckey=
+    kind=check
+    user_id=445
+[RET] ---------------
+    code=00
+    msg=ok
+
+========================================
+

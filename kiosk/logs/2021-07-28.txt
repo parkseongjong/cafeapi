@@ -1,0 +1,112 @@
+[2021-07-28 12:11:33] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=99
+    msg=wallet DB Connection error.
+
+========================================
+
+[2021-07-28 12:11:57] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=99
+    msg=wallet DB Connection error.
+
+========================================
+
+[2021-07-28 12:12:01] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=99
+    msg=wallet DB Connection error.
+
+========================================
+
+[2021-07-28 12:13:53] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=99
+    msg=wallet DB Connection error.
+
+========================================
+
+[2021-07-28 12:17:03] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=15
+    unit=ETP3
+
+========================================
+
+[2021-07-28 12:17:05] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=15
+    unit=ETP3
+
+========================================
+
+[2021-07-28 12:19:03] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=15
+    unit=TP3
+
+========================================
+
+[2021-07-28 15:19:37] : 112.171.120.140
+[GET] ---------------
+    auth_key=VIXBER_ILSAN_02
+    kind=exchange
+    price=1000
+    unit=KRW
+    target_unit=etp3
+[RET] ---------------
+    code=00
+    msg=ok
+    price=15
+    unit=ETP3
+
+========================================
+
